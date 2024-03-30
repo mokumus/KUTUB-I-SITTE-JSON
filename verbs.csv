@@ -1,0 +1,505 @@
+﻿id,ar,latin,tr,siga
+1,نَصَرَ,NASARA,Yardım etti,Fi’l-i mâzî
+2,يَنْصُرُ,Yensuru,"Yardım ediyor, eder, edecek",Fi’l-i muzârî
+3,نَصْرًا,Nasran,Yardım etmek,Masdar-ı gayr-i mimî
+4,نَاصِرٌ,Nasirun,Yardım edici / eden,İsm-i fâil
+5,مَنْصُورٌ,Mensurun,Yardım edilen,İsm-i mef’ûl
+6,لَمْ يَنْصُرْ,Lemyensur,Yardım etmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَنْصُرْ,Lemmayensur,Henüz yardım etmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَنْصُرُ,Mayensuru,Yardım etmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَنْصُرُ,Layensuru,Yardım etmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَنْصُرَ,Lenyensura,Elbette yardım etmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَنْصُرْ,Liyensur,Yardım etsin,Emr-i gâib
+12,لَا يَنْصُرْ,Layensur,Yardım etmesin,Nehy-i gâib
+13,اُنْصُرْ,Unsur,Yardım et,Emr-i hâzır
+14,لَا تَنْصُرْ,Latensur,Yardım etme,Nehy-i hâzır
+15,مَنْصَرٌ,Mensarun,Yardım e.zam.mek.y.etmek,"İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِنْصَرٌ,Minsarun,Yardım etme aleti,İsm-i âlet
+17,نَصْرَةً,Nasraten,Bir kere yardım etmek,Masdar binâ-i merra
+18,نِصْرَةً,Nisraten,Bir türlü yardım etmek,Masdar binâ-i nevi
+19,نُصَيْرٌ,Nusayrun,Yardım etmecik,İsm-i tasğîr
+20,نَصْرِىٌّ,Nasriyyun,Yardıma etmeye mensup,İsm-i mensûb
+21,نَصَّارٌ,Nassarun,Çok çok yardım eden,Mübâlağa-i ism-i fâil
+22,اَنْصَرُ,Ensaru,Ziyade yardım edici,İsm-i tafdîl
+23,مَا اَنْصَرَهُ,Maensarahu,Acayip yardım etti,Fi’l-i taaccüb-i evvel
+24,وَأَنْصِرْبِهِ,Veensirbihi,Ne acayip yardım etti,Fi’l-i taaccüb-i sânî
+1,عَلِمَ,ALİME,Bildi,Fi’l-i mâzî
+2,يَعْلَمُ,Yağlemu,"Biliyor,bilir,bilecek",Fi’l-i muzârî
+3,عِلْمًا,İlmen,Bilmek,Masdar-ı gayr-i mimî
+4,عَالِمٌ,Alimun,Bilen,İsm-i fâil
+5,مَعْلُومٌ,Mağlumun,Bilinen,İsm-i mef’ûl
+6,لَمْ يَعْلَمْ,Lemyağlem,Bilmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَعْلَمْ,Lemmayağlem,Henüz bilmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَعْلَمُ,Mayağlemu,Bilmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَعْلَمُ,Layağlemu,Bilmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَعْلَمَ,Lenyağleme,Elbette bilmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَعْلَمْ,Liyağlem,Bilsin,Emr-i gâib
+12,لَا يَعْلَمْ,Layağlem,Bilmesin,Nehy-i gâib
+13,اِعْلَمْ,İğlem,Bil,Emr-i hâzır
+14,لَا تَعْلَمْ,Latağlem,Bilme,Nehy-i hâzır
+15,مَعْلَمٌ,Mağlemun,"Bilme zamanı,mekanı,bilmek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِعْلَمٌ,Miğlemun,Bilme aleti,İsm-i âlet
+17,عَلْمَةً,Almeten,Bir kere bilmek,Masdar binâ-i merra
+18,عِلْمَةً,İlmeten,Bir türlü bilmek,Masdar binâ-i nevi
+19,عُلَيْمٌ,Uleymun,Bilmecik,İsm-i tasğîr
+20,عِلْمِيٌّ,İlmiyyun,"Bilmeye mensup,ait",İsm-i mensûb
+21,عَلَّمٌ,Allamun,Çok çok bilen,Mübâlağa-i ism-i fâil
+22,اَعْلَمُ,Ağlemu,Ziyade bilen,İsm-i tafdîl
+23,مَا اَعْلَمَهُ,Maağlemehu,Acayip bildi,Fi’l-i taaccüb-i evvel
+24,وَأَعْلِمْ بِهِ,Veağlimbihi,Ne acayip bildi,Fi’l-i taaccüb-i sânî
+1,كَتَبَ,KETEBE,Yazdı,Fi’l-i mâzî
+2,يَكْتُبُ,Yektubu,"Yazıyor,yazar,yazacak",Fi’l-i muzârî
+3,كِتَابَةً,Kitabeten,Yazmak,Masdar-ı gayr-i mimî
+4,كَاتِبٌ,Katibun,Yazan,İsm-i fâil
+5,مَكْتُوبٌ,Mektubun,Yazılan,İsm-i mef’ûl
+6,لَمْ يَكْتُبْ,Lemyektub,Yazmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَكْتُبْ,Lemmayektub,Henüz yazmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَكْتُبُ,Mayektubu,Yazmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَكْتُبُ,Layektubu,Yazmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَكْتُبَ,Lenyektube,Elbette yazmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَكْتُبْ,Liyektub,Yazsın,Emr-i gâib
+12,لَا يَكْتُبْ,Layektub,Yazmasın,Nehy-i gâib
+13,اُكْتُبْ,Üktub,Yaz,Emr-i hâzır
+14,لَا تَكْتُبْ,Latektub,Yazma,Nehy-i hâzır
+15,مَكْتَبٌ,Mektebun,"Yazma yeri,zamanı,yazmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِكْتَبٌ,Miktebun,Yazma aleti,İsm-i âlet
+17,كَتْبَةً,Ketbeten,Bir kere yazmak,Masdar binâ-i merra
+18,كِتْبَةً,Kitbeten,Bir türlü yazmak,Masdar binâ-i nevi
+19,كُتَيْبٌ,Küteybun,Yazmacık,İsm-i tasğîr
+20,كَتْبِيٌّ,Ketbiyyun,Yazmaya mensup,İsm-i mensûb
+21,كَتَّابٌ,Kettabun,Çok çok yazan,Mübâlağa-i ism-i fâil
+22,أكْتَبُ,Ektebu,Ziyade yazan,İsm-i tafdîl
+23,مَا أكْتَبَهُ,Maektebehu,Acayip yazdı,Fi’l-i taaccüb-i evvel
+24,وَأَكْتِبْ بِهِ,Veektibbihi,Ne acayip yazdı,Fi’l-i taaccüb-i sânî
+1,كَسَرَ,KESERA,Kırdı,Fi’l-i mâzî
+2,يَكْسُرُ,Yeksuru,"Kırar, Kırıyor, Kıracak",Fi’l-i muzârî
+3,كَسْرًا,Kesran,Kırmak,Masdar-ı gayr-i mimî
+4,كاَسِرٌ,Kasirun,Kıran,İsm-i fâil
+5,مَكْسُورٌ,Meksurun,Kırılan,İsm-i mef’ûl
+6,لَمْ يَكْسُرْ,Lemyeksur,Kırmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَكْسُرْ,Lemmayeksur,Henüz kırmadı,Fi’l-i muzârî cahd-i müstağrak
+8,ماَ يَكْسُرُ,Mayeksuru,Kırmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَكْسُرُ,Layeksuru,Kırmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَكْسُرَ,Lenyeksura,Elbette kırmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَكْسُرْ,Liyeksur,Kırsın,Emr-i gâib
+12,لَا يَكْسُرْ,Layeksur,Kırmasın,Nehy-i gâib
+13,اُكْسُرْ,Üksur,Kır,Emr-i hâzır
+14,لَا تَكْسُرْ,Lateksur,Kırma,Nehy-i hâzır
+15,مَكْسَرٌ,Meksarun,"Kırma zamanı, Kırma mekânı, Kırmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِكْسَرٌ,Miksarun,Kırma aleti,İsm-i âlet
+17,كَسْرَةً,Kesraten,Bir kere kırmak,Masdar binâ-i merra
+18,كِسْرَةً,Kisraten,Bir nevi kırmak,Masdar binâ-i nevi
+19,كُسَيْرٌ,Küseyrun,Küçük bir kırmak,İsm-i tasğîr
+20,كَسْرِيٌّ,Kesriyyun,Kırmaya mensup,İsm-i mensûb
+21,كَسَّارٌ,Kessarun,Çok kıran,Mübâlağa-i ism-i fâil
+22,أَكْسَرُ,Ekseru,En çok kıran,İsm-i tafdîl
+23,مَا أَكْسَرَهُ,Maekserahu,Acaip kırdı,Fi’l-i taaccüb-i evvel
+24,وَ أَكْسِرْ بِهِ,Veeksirbihi,Ne acaip kırdı,Fi’l-i taaccüb-i sânî
+1,جَلَسَ,CELESE,Oturdu,Fi’l-i mâzî
+2,يَجْلِسُ,Yeclisü,"Oturuyor,oturdu,oturacak",Fi’l-i muzârî
+3,جُلُوسًا,Cülüsen,Oturmak,Masdar-ı gayr-i mimî
+4,جَالِسٌ,Calisün,Oturan,İsm-i fâil
+5,مَجْلُوسٌ,Meclüsün,Oturtan,İsm-i mef’ûl
+6,لَمْ يَجْلِسْ,Lemyeclis,Oturmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَجْلِسْ,Lemmayeclis,Henüz oturmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَجْلِسُ,Mayeclisü,Oturmuyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَجْلِسُ,Layeclisü,Oturmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَجْلِسَ,Lenyeclise,Elbette oturmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَجْلِسْ,Liyeclis,Otursun,Emr-i gâib
+12,لَا يَجْلِسْ,Layeclis,Oturmasın,Nehy-i gâib
+13,اِجْلِسْ,İclis,Otur,Emr-i hâzır
+14,لَا تَجْلِسْ,Lateclis,Oturma,Nehy-i hâzır
+15,مَجْلِسٌ,Meclisün,"Oturma zamanı,mekanı,oturmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِجْلَسٌ,Miclesün,Oturma aleti,İsm-i âlet
+17,جَلْسَةً,Celseten,Bir kere oturmak,Masdar binâ-i merra
+18,جِلْسَةً,Cilseten,Bir türlü oturmak,Masdar binâ-i nevi
+19,جُلَيْسٌ,Cüleysün,Oturmacık,İsm-i tasğîr
+20,جُلُوسِىٌّ,Cülüsiyyun,Oturmaya mensup,İsm-i mensûb
+21,جَلَّاسٌ,Cellesün,Çok çok oturan,Mübâlağa-i ism-i fâil
+22,اَجْلَسُ,Eclesü,Ziyade oturucu,İsm-i tafdîl
+23,مَا اَجْلَسَهُ,Maeclesehu,Acayip oturdu,Fi’l-i taaccüb-i evvel
+24,وَ اَجْلِسْ بِهِ,Veeclisbihi,Ne acayip oturdu,Fi’l-i taaccüb-i sânî
+1,بَاعَ,BAA,Sattı,Fi’l-i mâzî
+2,يَبِيعُ,Yebiu,Satar-Satacak,Fi’l-i muzârî
+3,بَيْعًا,Beyan,Satmak,Masdar-ı gayr-i mimî
+4,بَائِعٌ,Baiun,Satıcı-Bayi,İsm-i fâil
+5,مَبِيعٌ,Mebiun,Satılmış,İsm-i mef’ûl
+6,لَمْ يَبِعْ,Lemyebiğ,Satmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَبِعْ,Lemmayebiğ,Henüz satmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَبِيعُ,Mayebiyu,Satmıyor,Fi’l-i muzârî nefy-i hâl
+9, لَا يَبِيعُ,Layebiyu,Satmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَبِيعَ,Lenyebiya,Elbette satmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَبِعْ,Liyebiğ,Satsın,Emr-i gâib
+12, لَا يَبِعْ,Layebiğ,Satmasın,Nehy-i gâib
+13,بِعْ,Biğ,Sat,Emr-i hâzır
+14,لَا تَبِعْ,Latebiğ,Satma,Nehy-i hâzır
+15,مَبِيعٌ,Mebiyun,Satmak,"İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِبْيَعٌ,Mibyeun,Satma aleti,İsm-i âlet
+17,بَيْعَةً,Beyaten,Bir kere satmak,Masdar binâ-i merra
+18,بِيعَةً,Biyaten,Bir nevi satmak,Masdar binâ-i nevi
+19,بُيَيْعٌ,Büyeyun,Satmacık,İsm-i tasğîr
+20,بَيْعِىٌّ,Beyiyyun,Satmaya mensup,İsm-i mensûb
+21,بَيَّاعٌ,Beyyaun,Ziyade satıcı,Mübâlağa-i ism-i fâil
+22,أَبْيَعُ,Ebyeu,Daha fazla sattı,İsm-i tafdîl
+23,مَا أَبْيَعَهُ,Maebyeahu,Acaib sattı,Fi’l-i taaccüb-i evvel
+24,وَأَبْيِعْ بِهِ    ,Veebyiğbihi,Ne acaib sattı,Fi’l-i taaccüb-i sânî
+1,ضَرَبَ,DARABE,Dövdü,Fi’l-i mâzî
+2,يَضْرِبُ,Yedribu,"Dövüyor,döver,dövecek",Fi’l-i muzârî
+3,ضَرْبًا,Darben,Dövmek,Masdar-ı gayr-i mimî
+4,ضَارِبٌ,Daribun,Döven,İsm-i fâil
+5,مَضْرُوبٌ,Medrubun,Dövülen,İsm-i mef’ûl
+6,لَمْ يَضْرِبْ,Lemyedrib,Dövmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَضْرِبْ,Lemmayedrib,Henüz dövmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَضْرِبُ,Mayedribu ,Dövmüyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَضْرِبُ,Layedribu,Dövmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَضْرِبَ,Lenyedribe,Elbette dövmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَضْرِبْ,Liyedrib,Dövsün,Emr-i gâib
+12,لَا يَدْرِبْ,Layedrib,Dövmesin,Nehy-i gâib
+13,اِضْرِبْ,İdrib,Döv,Emr-i hâzır
+14,لَا تَضْرِبْ,Latedrib,Dövme,Nehy-i hâzır
+15,مَضْرَبٌ,Medrabun,"Dövme zamanı,mekanı.dövmek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِضْرَبٌ,Midrabun,Dövme aleti,İsm-i âlet
+17,ضَرْبَةً,Darbeten,Bir kere dövmek,Masdar binâ-i merra
+18,ضِرْبَةً,Dirbeten,Bir türlü dövmek,Masdar binâ-i nevi
+19,ضُرَيْبٌ,Dureybun,Dövmecik,İsm-i tasğîr
+20,ضَرْبِيٌّ,Darbiyyun,"Dövmeye mensup,ait",İsm-i mensûb
+21,ضَرَّابٌ,Darrabun,Çok çok döven,Mübâlağa-i ism-i fâil
+22,اَضْرَبُ,Edrabu,Ziyade dövücü,İsm-i tafdîl
+23,ما اَضْرَبَهُ,Maedrabehu,Acayip dövdü,Fi’l-i taaccüb-i evvel
+24,وَأَضْرِبْ بِهِ,Veedribbihi,Ne acayip dövdü,Fi’l-i taaccüb-i sânî
+1,حَسُنَ,HASÜNE,Güzel oldu,Fi’l-i mâzî
+2,يَحْسُنُ,Yehsünü,"Güzel oluyor,olur,olacak",Fi’l-i muzârî
+3,حُسْنً,Hüsnen,Güzel olmak,Masdar-ı gayr-i mimî
+4,حَسَنٌ,Hasenün,Güzel olan,İsm-i fâil
+5,مَحْسُونٌ,Mehsunun,Güzel olunan,İsm-i mef’ûl
+6,لَمْ يَحْسُنْ,Lemyehsun,Güzel olmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَحْسُنْ,Lemmayehsun,Henüz güzel olmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَحْسُنُ,Mayehsunu,Güzel olmuyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَحْسُنُ,Layehsunu,Güzel olmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَحْسُنَ,Lenyehsune,Elbette güzel olmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَحْسُنْ,Liyehsun,Güzel olsun,Emr-i gâib
+12,لَا يَحْسُنْ,Layehsun,Güzel olmasın,Nehy-i gâib
+13,اُحْسُنْ,Ühsun,Güzel ol,Emr-i hâzır
+14,لَا تَحْسُنْ,Latehsun,Güzel olma,Nehy-i hâzır
+15,مَحْسَنٌ,Mehsenun,"Güzel olma zamanı,mekanı,güzel olmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,لَا يَكُونُ,Layekünü,Güzel olma aleti,İsm-i âlet
+17,حَسْنَةً,Hasneten,Bir kere güzel olmak,Masdar binâ-i merra
+18,حِسْنَةً,Hisneten,Bir türlü güzel olmak,Masdar binâ-i nevi
+19,حُسَيْنٌ,Hüseynun,Güzel olmacık,İsm-i tasğîr
+20,حُسْنِيٌّ,Hüsniyyun,Güzel olmaya mensup,İsm-i mensûb
+21,حَسَّانٌ,Hassanün,Çok çok güzel olan,Mübâlağa-i ism-i fâil
+22,اَحْسَنُ,Ehsenü,Ziyade güzel olucu,İsm-i tafdîl
+23,مَا اَحْسَنَهُ,Maehsenahu,Acayip güzel oldu,Fi’l-i taaccüb-i evvel
+24,وَاَحْسِنْ بِهِ,Veehsinbihi,Ne acayip güzel oldu,Fi’l-i taaccüb-i sânî
+1,شَكَرَ,ŞEKERA,Şükretti,Fi’l-i mâzî
+2,يَشْكُرُ,Yeşküru,"Şükrediyor,şükreder,şükredecek",Fi’l-i muzârî
+3,شُكْراً,Şükran,Şükretmek,Masdar-ı gayr-i mimî
+4,شاَكِرٌ,Şakirun,Şükreden,İsm-i fâil
+5,مَشْكُورٌ,Meşkurun,Şükredilen,İsm-i mef’ûl
+6,لَمْ يَشْكُرْ,Lemyeşkür,Şükretmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَشْكُرْ,Lemmayeşkür,Henüz şükretmedi,Fi’l-i muzârî cahd-i müstağrak
+8,ماَ يَشْكُرُ,Mayeşküru,Şükretmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَشْكُرُ,Layeşkuru,Şükretmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَشْكُرَ,Lenyeşkure,Elbette şükretmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَشْكُرْ,Liyeşkür,Şükretsin,Emr-i gâib
+12,لَا يَشْكُرْ,Layeşkur,Şükretmesin,Nehy-i gâib
+13,اُشْكُرْ,Üşkur,Şükret,Emr-i hâzır
+14,لَا تَشْكُرْ,Lateşkur,Şükretme,Nehy-i hâzır
+15,مَشْكَرٌ,Meşkerun,"Şükretme yeri,zamanı,şükretmek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِشْكَرٌ,Mişkerun,Şükretme aleti,İsm-i âlet
+17,شَكْرَةً,Şekraten,Bir kere şükretmek,Masdar binâ-i merra
+18,شِكْرَةً,Şikraten,Bir türlü şükretmek,Masdar binâ-i nevi
+19,شُكَيْرٌ,Şükeyrun,Şükretmecik,İsm-i tasğîr
+20,شَكْرِيٌّ,Şekriyyun,Şükretmeye mensup,İsm-i mensûb
+21,شَكَّارٌ,Şekkarun,Çok çok şükreden,Mübâlağa-i ism-i fâil
+22,أَشْكَرُ,Eşkeru,Ziyade şükredici,İsm-i tafdîl
+23,مَا أَشْكَرَهُ,Maeşkerahu,Acayip şükretti,Fi’l-i taaccüb-i evvel
+24,وَ أَشْكِرْ بِهِ,Veeşkirbihi,Ne acayip şükretti,Fi’l-i taaccüb-i sânî
+1,نَظَرَ,NAZARA,Baktı,Fi’l-i mâzî
+2,يَنْظُرُ,Yenzuru,"Bakar, Bakıyor, Bakacak",Fi’l-i muzârî
+3,نَظْرًا,Nazran,Bakmak,Masdar-ı gayr-i mimî
+4,ناَظِرٌ,Nazirun,Bakan,İsm-i fâil
+5,مَنْظُورٌ,Menzurun,Bakılan,İsm-i mef’ûl
+6,لَمْ يَنْظُرْ,Lemyenzur,Bakmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَنْظُرْ,Lemmayenzur,Henüz bakmadı,Fi’l-i muzârî cahd-i müstağrak
+8,ماَ يَنْظُرُ,Mayenzuru,Bakmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَنْظُرُ,Layenzuru,Bakmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَنْظُرَ,Lenyenzura,Elbette bakmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَنْظُرْ,Liyenzur,Baksın,Emr-i gâib
+12,لَا يَنْظُرْ,Layenzur,Bakmasın,Nehy-i gâib
+13,اُنْظُرْ,Ünzur,Bak,Emr-i hâzır
+14,لَا تَنْظُرْ,Latenzur,Bakma,Nehy-i hâzır
+15,مَنْظَرٌ,Menzarun,"Bakma zamanı, Bakma mekânı, Bakmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِنْظَرٌ,Minzarun,Bakma aleti,İsm-i âlet
+17,نَظْرَةً,Nazraten,Bir kere bakmak,Masdar binâ-i merra
+18,نِظْرَةً,Nizraten,Bir nevi bakmak,Masdar binâ-i nevi
+19,نُظَيْرٌ,Nuzayrun,Küçük bir bakmak,İsm-i tasğîr
+20,نَظْرِيٌّ,Nazriyyun,Bakmaya mensup,İsm-i mensûb
+21,نَظَّارٌ,Nazzarun,Çok bakan,Mübâlağa-i ism-i fâil
+22,أَنْظَرُ,Enzaru,En çok bakan,İsm-i tafdîl
+23,مَا أَنْظَرَهُ,Maenzarahu,Acaip baktı,Fi’l-i taaccüb-i evvel
+24,وَ أَنْظِرْ بِهِ,Veenzirbihi,Ne acaip baktı,Fi’l-i taaccüb-i sânî
+1,قَرِبَ,GARİBE,Yaklaştı,Fi’l-i mâzî
+2,يَقْرَبُ,Yegrabü,"Yaklaşıyor, yaklaşır, yaklaşacak",Fi’l-i muzârî
+3,قُرْبًا,Gurban,Yaklaşmak,Masdar-ı gayr-i mimî
+4,قَارِبٌ,Garibün,Yaklaşan,İsm-i fâil
+5,مَقْرُوبٌ,Megrubün,Yaklaşılmış,İsm-i mef’ûl
+6,لَمْ يَقْرَبْ,Lemyegrab,Yaklaşmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَقْرَبْ,Lemmayegrab,Henüz yaklaşmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَقْرَبُ,Mayegrabü,Yaklaşmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَقْرَبُ,Layegrabü,Yaklaşmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَقْرَبَ,Lenyegrabe,Elbette yaklaşmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَقْرَبْ,Liyegrab,Yaklaşsın,Emr-i gâib
+12,لَا يَقْرَبْ,Layegrab,Yaklaşmasın,Nehy-i gâib
+13,اِقْرَبْ,Igrab,Yaklaş,Emr-i hâzır
+14,لَا تَقْرَبْ,Lategrab,Yaklaşma,Nehy-i hâzır
+15,مَقْرَبٌ,Megrabün,"Yaklaşma zamanı, yaklaşma mekanı, yaklaşmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِقْرَبٌ,Migrabün,Yaklaşma aleti,İsm-i âlet
+17,قَرْبَةً,Garbeten,Bir kere yaklaşmak,Masdar binâ-i merra
+18,قِرْبَةً,Girbeten,Bir türlü yaklaşmak,Masdar binâ-i nevi
+19,قُرَيْبٌ,Gureybun,Yaklaşmacık,İsm-i tasğîr
+20,قَرْبِىٌّ,Gurbiyyun,"Yaklaşmaya mensup, ait",İsm-i mensûb
+21,قَرَّابٌ,Garrabun,Çok çok yaklaşan,Mübâlağa-i ism-i fâil
+22,اَقْرَبُ,Egrabu,Ziyade yaklaşıcı,İsm-i tafdîl
+23,مَا اَقْرَبَهُ,Maegrabehu,Acayip yaklaştı,Fi’l-i taaccüb-i evvel
+24,وَاَقْرِبْ بِهِ,Veegribbihi,Ne acayip yaklaştı,Fi’l-i taaccüb-i sânî
+1,فَتَحَ,FETAHA,Açtı,Fi’l-i mâzî
+2,يَفْتَحُ,Yeftehu,"Açıyor,açar,açacak",Fi’l-i muzârî
+3,فَتْحًا,Fethan,Açmak,Masdar-ı gayr-i mimî
+4,فَاتِحٌ,Fatihun,Açan,İsm-i fâil
+5,مَفْتُوحٌ,Meftuhun,Açılan,İsm-i mef’ûl
+6,لَمْ يَفْتَحْ,Lemyeftah,Açmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَفْتَحْ,Lemmayeftah,Henüz açmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَفْتَحُ,Mayeftehu,Açmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَفْتَحُ,Layeftehu,Açmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَفْتَحَ,Lenyefteha,Elbette açmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَفْتَحْ,Liyeftah,Açsın,Emr-i gâib
+12,لَا يَفْتَحْ,Layeftah,Açmasın,Nehy-i gâib
+13,اِفْتَحْ,İfteh,Aç,Emr-i hâzır
+14,لَا تَفْتَحْ,Lateftah,Açma,Nehy-i hâzır
+15,مَفْتَحٌ,Meftehun,"Açma zamanı,mekanı,açmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِفْتَاحٌ,Miftahun,Açma aleti,İsm-i âlet
+17,فَتْحَةً,Fethaten,Bir kere açmak,Masdar binâ-i merra
+18,فِتْحَةً,Fithaten,Bir türlü açmak,Masdar binâ-i nevi
+19,فُتَيْحٌ,Füteyhun,Açmacık,İsm-i tasğîr
+20,فَتْحِيٌّ,Fethiyyun,Açmaya mensup,İsm-i mensûb
+21,فَتَّاحٌ,Fettahun,Çok çok açan,Mübâlağa-i ism-i fâil
+22,اَفْتَحُ,Eftehu,Ziyade açıcı,İsm-i tafdîl
+23,ماَ اَفْتَحَهُ,Maeftehahu,Acayip açtı,Fi’l-i taaccüb-i evvel
+24,وَأَفْتِحْ بِهِ,Veeftihbihi,Ne acayip açtı,Fi’l-i taaccüb-i sânî
+1,حَسِبَ,HASİBE,Zan etti,Fi’l-i mâzî
+2,يَحْسِبُ,Yehsibü,"Zannediyor,eder,edecek",Fi’l-i muzârî
+3,حِسْبَانً,Hisbanen,Zannetmek,Masdar-ı gayr-i mimî
+4,حَاسِبٌ,Hasibün,Zanneden,İsm-i fâil
+5,مَحْسُوبٌ,Mehsübün,Zannedilen,İsm-i mef’ûl
+6,لَمْ يَحْسِبْ,Lemyehsib,Zannetmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَحْسِبْ,Lemmayehsib,Henüz zannetmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَحْسِبُ,Mayehsibü,Zannetmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَحْسِبُا,Layehsibü,Zannetmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَحْسِبَ,Lenyehsibe,Elbette zannetmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَحْسِبْ,Liyehsib,Zannetsin,Emr-i gâib
+12,لَا يَحْسِبْ,Layehsib,Zannetmesin,Nehy-i gâib
+13,اِحْسِبْ,İhsib,Zannet,Emr-i hâzır
+14,لَا تَحْسِبْ,Latehsib,Zannetme,Nehy-i hâzır
+15,مَحْسَبٌ,Mehsebun,"Zannetme zamanı,mekanı,zannetmek",İsm-i zaman İsm-i mekânMasdar-ı mimî
+16,مِحْسَبٌ,Mihsebun,Zannetme aleti,İsm-i âlet
+17,حَسْبَةً,Hasbeten,Bir kere zannetmek,Masdar binâ-i merra
+18,حِسْبَةً,Hisbeten,Bir türlü zannetmek,Masdar binâ-i nevi
+19,حُسَيْبٌ,Hüseybün,Zannetmecik,İsm-i tasğîr
+20,حِسْبَانِيٌّ,Hisbaniyyun,Zannetmeye mensup,İsm-i mensûb
+21,حَسَّابٌ,Hassabün,Çok çok zanneden,Mübâlağa-i ism-i fâil
+22,اَحْسَبُ,Ehsebu,Ziyade zannedici,İsm-i tafdîl
+23,مَا اَحْسَبَهُ,Maehsebehu,Acayip zannetti,Fi’l-i taaccüb-i evvel
+24,وَاَحْسِبْ بِهِ,Veehsibbihi,Ne acayip zannetti,Fi’l-i taaccüb-i sânî
+1,أَمَرَ,EMERA,Emretti,Fi’l-i mâzî
+2,يَأْمُرُ,Ye'muru,"Emrediyor,emreder,emredecek",Fi’l-i muzârî
+3,أَمْرًا,Emran,Emretmek,Masdar-ı gayr-i mimî
+4,آمِرٌ,Amirun,Emreden,İsm-i fâil
+5,مَأْمُورٌ,Me'murun,Emrolunmuş,İsm-i mef’ûl
+6,لَمْ يَاْمُرْ,Lemye'mur,Emretmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَاْمُرْ,Lemmaye'mur,Henüz emretmedi,Fi’l-i muzârî cahd-i müstağrak
+8,ماَ يَاْمُرُ,Maye'muru,Emretmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَاْمُرُ,Laye'muru,Emretmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَاْمُرَ,Lenye'mura,Elbette emretmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَاْمُرْ,Liye'mur,Emretsin,Emr-i gâib
+12,لَا يَاْمُرْ,Laye'mur,Emretmesin,Nehy-i gâib
+13,مُرْ,Mur,Emret,Emr-i hâzır
+14,لَا تَاْمُرْ,Late'mur,Emretme,Nehy-i hâzır
+15,مَاْمَرُنْ,Me'merun,"Emretme yeri,zamanı,emretmek",İsm-i zaman İsm-i mekânMasdar-ı mimî
+16,مِاْمَرُنْ,Mi'merun,Emretme aleti,İsm-i âlet
+17,أَمْرَتً,Emraten,Bir kere emretmek,Masdar binâ-i merra
+18,اِمْرَتً,İmraten,Bir türlü emretmek,Masdar binâ-i nevi
+19,أُمَيْرٌ,Umeyrun,Emretmecik,İsm-i tasğîr
+20,أَمْرِيٌ,Emriyyun,Emretmeye mensup,İsm-i mensûb
+21,أَمْمَرٌ,Emmarun,Çok çok emreden,Mübâlağa-i ism-i fâil
+22,أَمَرُ,Ameru,Ziyade emredici,İsm-i tafdîl
+23,مَا أَمَرَهُ,Maamerahu,Acayip emretti,Fi’l-i taaccüb-i evvel
+24,وَآمِرْبِهِ,Veamirbihi,Ne acayip emretti,Fi’l-i taaccüb-i sânî
+1,فَعَلَ,FEALE,Yaptı,Fi’l-i mâzî
+2,يَفْعِلُ,Yefilü,"Yapıyor,yapar,yapacak",Fi’l-i muzârî
+3,فَعْلًا,Feğlen,Yapmak,Masdar-ı gayr-i mimî
+4,فَاعِلٌ,Failün,Yapan,İsm-i fâil
+5,مَفْعُولٌ,Mefulün,Yapılan,İsm-i mef’ûl
+6,لَمْ يَفْعِلْ,Lemyefil,Yapmadı,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَفْعِلْ,Lemmayefil,Henüz yapmadı,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَفْعِلُ,Mayefilü,Yapmıyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَفْعِلُ,Layefilü,Yapmayacak,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَفْعِلَ,Lenyefile,Elbette yapmayacak,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَفْعِلْ,Liyefil,Yapsın,Emr-i gâib
+12,لَا يَفْعِلْ,Layefil,Yapmasın,Nehy-i gâib
+13,اِفْعِلْ,İfil,Yap,Emr-i hâzır
+14,لَا تَفْعِلْ,Latefil,Yapma,Nehy-i hâzır
+15,مَفْعِلْ,Mefil,"Yapma yeri,yapma zamanı ,yapmak","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِفْعِلٌ,Mifilün,Yapma aleti,İsm-i âlet
+17,فَعْلَةً,Feğleten,Bir kere yapmak,Masdar binâ-i merra
+18,فِعْلَةً,Fiğleten,Bir türlü yapmak,Masdar binâ-i nevi
+19,فُعَيْلٌ,Füeylün,Yapmacık,İsm-i tasğîr
+20,فَعْلِىٌّ,Feğliyyun,Yapmaya mensup,İsm-i mensûb
+21,فَعَّالٌ,Fealün,Çok çok yapan,Mübâlağa-i ism-i fâil
+22,اَفْعَلُ,Efalü,Ziyade yapan,İsm-i tafdîl
+23,مَا اَفْعَلَهُ,Maefalehü,Acayip yapan,Fi’l-i taaccüb-i evvel
+24,وَ اَفْعِلْ بِهِ,Veefilbihi,Ne acayip yapan,Fi’l-i taaccüb-i sânî
+1,قَالَ,GALE,Dedi-Söyledi,Fi’l-i mâzî
+2,يَقُولُ,Yegulü,Der-diyecek,Fi’l-i muzârî
+3,قَوْلًا,Gavlen,Söylemek,Masdar-ı gayr-i mimî
+4,قَإِلٌ,Gailün,Söyleyici,İsm-i fâil
+5,مَقُولٌ,Megulün,Söylenmiş,İsm-i mef’ûl
+6,لَمْ يَقُلْ,Lemyegul,Söylemedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا ايَقُلْ,Lemmayegul,Henüz söylemedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَقُولُ,Mayegulü,Söylemiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَقُولُ,Layegulü,Söylemeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَقُولَ,Lenyegule,Elbette söylemeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَقُلْ,Liyegul,Söylesin,Emr-i gâib
+12,لَا يَقُلْ,Layegul,Söylemesin,Nehy-i gâib
+13,قُلْ,Gul,Söyle,Emr-i hâzır
+14,لَا تَقُلْ,Lategul,Söyleme,Nehy-i hâzır
+15,مَقَالٌ,Magalün,Söylemek,"İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِقْوَلٌ,Migvalün,Söyleme aleti,İsm-i âlet
+17,قَوْلَةً,Gavleten,Bir kere söylemek,Masdar binâ-i merra
+18,قِيلَةً,Gileten,Bir nevi söylemek,Masdar binâ-i nevi
+19,قُوَيْلٌ,Guveylün,Söylemecik,İsm-i tasğîr
+20,قَوْلِيٌّ,Gavliyyun,Söylemeye mensup,İsm-i mensûb
+21,قَوَّالٌ,Gavvalün,Ziyade söyleyici,Mübâlağa-i ism-i fâil
+22,أَقْوَلُ,Egvalü,Daha fazla söyledi,İsm-i tafdîl
+23,مَا أَقَالَهُ,Maegalehu,Acaib söyledi,Fi’l-i taaccüb-i evvel
+24,وَأَقِلْ بِهِ,Veegilbihi,Ne acaib söyledi,Fi’l-i taaccüb-i sânî
+1,عَبَدَ,ABEDE,Kulluk etti,Fi’l-i mâzî
+2,يَعْبُدُ,Yağbudu,Kulluk ediyor,Fi’l-i muzârî
+3,عَبْدً,Abden,Kulluk etmek,Masdar-ı gayr-i mimî
+4,عَابِدٌ,Abidun,Kulluk eden,İsm-i fâil
+5,مَعْبُودٌ,Mağbudun,Kulluk edilen,İsm-i mef’ûl
+6,لَمْ يَعْبُدْ,Lemyağbud,Kulluk etmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَعْبُدْ,Lemmayağbud,Henüz kulluk etmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَعْبُدُ,Mayağbudu,Kulluk etmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَعْبُدُ,Layağbudu,Kulluk etmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَعْبُدَ,Lenyagbude,Elbette kulluk etmez,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَعْبُدْ,Liyağbud,Kulluk etsin,Emr-i gâib
+12,لَا يَعْبُدْ,Layağbud,Kulluk etmesin,Nehy-i gâib
+13,اُعْبُدْ,Uğbud,Kulluk et,Emr-i hâzır
+14,لَا تَعْبُدْ,Latağbud,Kulluk etme,Nehy-i hâzır
+15,مَعْبَدٌ,Mağbedun,"Kulluk zamanı ,mekanı,mastar mimi","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِعْبَدٌ,Miğbedun,Kulluk aleti,İsm-i âlet
+17,عَبْدَتً,Abdeten,Bir kere kulluk etmek,Masdar binâ-i merra
+18,عِبْدَةً,İbdeten,Bir çeşit kulluk etmek,Masdar binâ-i nevi
+19,عُبَيْدٌ,Ubeydun,Kulcuk,İsm-i tasğîr
+20,عَبْدِيٌّ,Abdiyyun,Kulluğa mensup,İsm-i mensûb
+21,عَبَّادٌ,Abbadun,Çokca kulluk eden,Mübâlağa-i ism-i fâil
+22,أَعْبَدُ,Ağbedu,En iyi kulluk eden,İsm-i tafdîl
+23,مَا أَعْبَدَهُ,Maağbedehu,Acayip kulluk etti,Fi’l-i taaccüb-i evvel
+24,وَ أَعْبِدْ بِهِ,Veağbidbihi,Ne acayip kulluk etti,Fi’l-i taaccüb-i sânî
+1,حَكَمَ,HAKEME,Hükmetti,Fi’l-i mâzî
+2,يَحْكُمُ,Yahkümu,Hükmediyor,Fi’l-i muzârî
+3,حُكْمًا,Hükmen,Hükmetmek,Masdar-ı gayr-i mimî
+4,حَاكِمٌ,Hakimun,Hükmeden,İsm-i fâil
+5,مَحْكُومٌ,Mahkümun,Hükmedilen,İsm-i mef’ûl
+6,لَمْ يَحْكُمْ,Lemyahkum,Hükmetmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَحْكُمْ,Lemmayahkum,Henüz hükmetmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَحْكُمُ,Mayahkumu,Hükmetmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَحْكُمُ,Layahkumu,Hükmetmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَحْكُمَ,Lenyahkume,Asla hükmetmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَحْكُمْ,Liyahkum,Hükmetsin,Emr-i gâib
+12,لَا يَحْكُمْ,Layahkum,Hükmetmesin,Nehy-i gâib
+13,اُحْكُمْ,Ühkum,Hükmet,Emr-i hâzır
+14,لَا تَحْكُمْ,Latehküm,Hükmetme,Nehy-i hâzır
+15,مَحْكَمٌ,Mahkemun,"Hükmetme zamanı,mekanı,hükmetmek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِحْكَمٌ,Mihkemun,Hükmetme aleti,İsm-i âlet
+17,حَكْمَةً,Hekmeten,Bir kere hükmetmek,Masdar binâ-i merra
+18,حِكْمَةً,Hikmeten,Bir çeşit hükmetmek,Masdar binâ-i nevi
+19,حُكَيْمٌ,Hükeymun,Hükmetmecik,İsm-i tasğîr
+20,حُكْمِيٌّ,Hukmiyyun,Hükmetmeye mensub,İsm-i mensûb
+21,حَكَّامٌ,Hakkamun,Çokca hükmeden,Mübâlağa-i ism-i fâil
+22,أَحْكَمُ,Ahkamu,En iyi hükmeden,İsm-i tafdîl
+23,مَا أَحْكَمَهُ,Maahkemehu,Acayip hükmetti,Fi’l-i taaccüb-i evvel
+24,وَ أَحْكِمْ بِهِ,Veehkimbihi,Ne acayip hükmetti,Fi’l-i taaccüb-i sânî
+1,نَزَلَ,NEZELE,İndi,Fi’l-i mâzî
+2,يَنْزِلُ,Yenzilü,İniyor,Fi’l-i muzârî
+3,نُزُولًا,Nüzulen,İnmek,Masdar-ı gayr-i mimî
+4,نَازِلٌ,Nazilün,İnen,İsm-i fâil
+5,مَنْزُولٌ,Menzülün,İnilen,İsm-i mef’ûl
+6,لَمْ يَنْزِلْ,Lemyenzil,İnmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَنْزِلْ,Lemmayenzil,Henüz inmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَنْزِلُ,Mayenzilü,İnmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَنْزِلُ,Layenzilü,İnmez,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَنْزِلَ,Lenyenzile,Asla inmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَنْزِلْ,Liyenzil,İnsin,Emr-i gâib
+12,لَا يَنْزِلْ,Layenzil,İnmesin,Nehy-i gâib
+13,اِنْزِلْ,İnzil,İn,Emr-i hâzır
+14,لَا تَنْزِلْ,Latenzil,İnme,Nehy-i hâzır
+15,مَنْزِلٌ,Menzilün,"İsmi zaman,ismi mekan,inmek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِنْزَلٌ,Minzelün,İnme aleti,İsm-i âlet
+17,نَزْلَةً,Nezleten,Bir kere inmek,Masdar binâ-i merra
+18,نِزْلَةً,Nizleten,Bir çeşit inmek,Masdar binâ-i nevi
+19,نُزَيْلٌ,Nüzeylün,İnmecik,İsm-i tasğîr
+20,نَزْلِيٌّ,Nezliyyun,İnmeye mensub,İsm-i mensûb
+21,نَزَّالٌ,Nezzalün,Çokça inen,Mübâlağa-i ism-i fâil
+22,أَنْزَلُ,Enzelü,En iyi inen,İsm-i tafdîl
+23,مَا أَنْزَلَهُ,Maenzelehu,Acayip indi,Fi’l-i taaccüb-i evvel
+24,وَ أَنْزِلْ بِهِ,Veenzilbihi,Ne acayip indi,Fi’l-i taaccüb-i sânî
+1,صَدَقَ,SADEGA,Doğru söyledi,Fi’l-i mâzî
+2,يَصْدُقُ,Yesdugu,Doğru söylüyor,Fi’l-i muzârî
+3,صِدْقًا,Sıdgan,Doğru söylemek,Masdar-ı gayr-i mimî
+4,صَادِقٌ,Sadugun,Doğru söyleyen,İsm-i fâil
+5,مَصْدُوقٌ,Mesdugun,Doğru söylenilen,İsm-i mef’ûl
+6,لَمْ يَصْدُقْ,Lemyesdug,Doğru söylemedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَصْدُقْ,Lemmayesdug,Henüz doğru söylemedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا  يَصْدُقُ,Mayesdugu,Doğru söylemiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا  يَصْدُقُ,Layesdugu,Doğru söylemez,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ  يَصْدُقَ,Lenyesduga,Asla doğru söylemez,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَصْدُقْ,Liyesdug,Doğru söylesin,Emr-i gâib
+12,لَا يَصْدُقْ,Layesdug,Doğru söylemesin,Nehy-i gâib
+13,اُصْدُقْ,Üsdug,Doğru söyle,Emr-i hâzır
+14,لَا تَصْدُقْ,Latesdug,Doğru söyleme,Nehy-i hâzır
+15,مَصْدَقٌ,Mesdagun,"Doğru söyleme zamanı,mekanı,doğru söylemek","İsm-i zaman İsm-i mekân,Masdar-ı mimî"
+16,مِصْدَقٌ,Misdagun,Doğru söyleme aleti,İsm-i âlet
+17,صَدْقَةً,Sadgaten,Bir kere doğru söylemek,Masdar binâ-i merra
+18,صِدْقَةً,Sıdgaten,Bir çeşit doğru söylemek,Masdar binâ-i nevi
+19,صُدَيْقٌ,Sudeygun,Doğru söylemecik,İsm-i tasğîr
+20,صِدْقِيٌّ,Sıdgıyyun,Doğru söylemeye mensup,İsm-i mensûb
+21,صَدَّاقٌ,Saddagun,Çokça doğru söyleyen,Mübâlağa-i ism-i fâil
+22,أَصْدَقُ,Esdagu,En doğru söyleyen,İsm-i tafdîl
+23,مَا أَصْدَقَهُ,Maesdegahu,Acayip doğru söyledi,Fi’l-i taaccüb-i evvel
+24,وَأَصْدِقْ بِهِ,Veesdıgbihi,Ne acayip doğru söyledi,Fi’l-i taaccüb-i sânî
+1,سَجَدَ,SECEDE,Secde etti,Fi’l-i mâzî
+2,يَسْجُدُ,Yescudu,"Secde ediyor, eder, edecek",Fi’l-i muzârî
+3,سُجُودًا,Sucuden,Secde etmek,Masdar-ı gayr-i mimî
+4,سَاجِدٌ,Sacidun,Secde eden,İsm-i fâil
+5,مَسْجُودٌ,Mescudun,Secde edilen,İsm-i mef’ûl
+6,لَمْ يَسْجُدْ,Lemyescud,Secde etmedi,Fi’l-i muzârî cahd-i mutlak
+7,لَمَّا يَسْجُدْ,Lemmayescud,Henüz secde etmedi,Fi’l-i muzârî cahd-i müstağrak
+8,مَا يَسْجُدُ,Mayescudu,Secde etmiyor,Fi’l-i muzârî nefy-i hâl
+9,لَا يَسْجُدُ,Layescudu,Secde etmeyecek,Fi’l-i muzârî nefy-i istikbâl
+10,لَنْ يَسْجُدَ,Lenyescuda,Elbette secde etmeyecek,Fi’l-i muzârî te’kîd-i nefy-i istikbâl
+11,لِيَسْجُدْ,Liyescud,Secde etsin,Emr-i gâib
+12,لَا يَسْجُدْ,Layescud,Secde etmesin,Nehy-i gâib
+13,اُسْجُدْ,Üscud,Secde et,Emr-i hâzır
+14,لَا تَسْجُدْ,Latescud,Secde etme,Nehy-i hâzır
+15,مَسْجِدٌ,Mescidün,"Secde etme zamanı,mekanı,secde etmek","İsm-i zaman İsm-i mekân, Masdar-ı mimî"
+16,سَجَّادَةٌ,Seccadetun,Secde etme aleti,İsm-i âlet
+17,سُجُودًا,Sûcuden,Bir kere secde etmek,Masdar binâ-i merra
+18,سِجْدَةً,Sicdeten,Bir türlü secde etmek,Masdar binâ-i nevi
+19,سُجَيْدُنْ,Suceydun,Secde etmecik,İsm-i tasğîr
+20,سَجَّادٌ,Saccadün,Secde etmeye mensup,İsm-i mensûb
+21,سَاجِّدٌ,Saccidun,Çok çok secde eden,Mübâlağa-i ism-i fâil
+22,اَسْجُدُ,Escudu,Ziyade secde edici,İsm-i tafdîl
+23,مَا اَسْجُدُهُ,Maescuduhu,Acayip secde etti,Fi’l-i taaccüb-i evvel
+24,وَاسْجُدْبِهِ,Veescudbihi,Ne acayip secde etti,Fi’l-i taaccüb-i sânî
