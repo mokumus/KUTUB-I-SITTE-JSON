@@ -1,0 +1,673 @@
+﻿id,ar,latin,single_plural,male_female,gaib_muhattab,meaning,description,root
+1,نَصَرَ,Nasara,Müfred,Müzekker,Gaib,Yardım Etti,Bir gaip er geçmiş zamanda,nasara_mazi_malum
+2,نَصَرَا,Nasaraa,Tesniye,Müzekker,Gaib,Yardım Ettiler,İki gaip erler geçmiş zamanda,nasara_mazi_malum
+3,نَصَرُوا,Nasaruu,Cemi,Müzekker,Gaib,Yardım Ettiler,Cemi gaip erler geçmiş zamanda,nasara_mazi_malum
+4,نَصَرَتْ,Nasarat,Müfred,Müennes,Gaibe,Yardım Etti,Bir gaibe avrat geçmiş zamanda,nasara_mazi_malum
+5,نَصَرَتَا,Nasarate,Tesniye,Müennes,Gaibe,Yardım Ettiler,İki gaibe avratlar geçmiş zamanda,nasara_mazi_malum
+6,نَصَرْنَ,Nasarne,Cemi,Müennes,Gaibe,Yardım Ettiler,Cemi gaibe avratlar geçmiş zamanda,nasara_mazi_malum
+7,نَصَرْتَ,Nasarte,Müfred,Müzekker,Muhatab,Yardım Ettin,Bir hazır er geçmiş zamanda,nasara_mazi_malum
+8,نَصَرْتُمَا,Nasartüma,Tesniye,Müzekker,Muhatab,Yardım Ettiniz,iki hazır erler geçmiş zamanda,nasara_mazi_malum
+9,نَصَرْتُمْ,Nasartüm,Cemi,Müzekker,Muhatab,Yardım Ettiniz,Cemi hazır erler geçmiş zamanda,nasara_mazi_malum
+10,نَصَرْتِ,Nasarti,Müfred,Müennes,Muhataba,Yardım Ettin,Bir hazıra avrat geçmiş zamanda,nasara_mazi_malum
+11,نَصَرْتُمَا,Nasartüma,Tesniye,Müennes,Muhataba,Yardım Ettiniz,İki hazıra avratlar geçmiş zamanda,nasara_mazi_malum
+12,نَصَرْتُنَّ,Nasartünne,Cemi,Müennes,Muhataba,Yardım Ettiniz,Cemi hazıra avratlar geçmiş zamanda,nasara_mazi_malum
+13,نَصَرْتُ,Nasartü,Müfred,Nefsi Mütekellim,Vahde,Yardım Ettim,Ben geçmiş zamanda,nasara_mazi_malum
+14,نَصَرْنَا,Nasarna,Tesniye,Nefsi Mütekellim,Vahde gayr,Yardım Ettik,Biz geçmiş zamanda,nasara_mazi_malum
+1,نُصِرَ,Nüsira,Müfred,Müzekker,Gaib,Yardım olundu,Bir gaip er geçmiş zamanda,nasara_mazi_meçhul
+2,نُصِرَا,Nüsiraa,Tesniye,Müzekker,Gaib,Yardım olundular,İki gaip erler geçmiş zamanda,nasara_mazi_meçhul
+3,نُصِرُوا,Nüsiruu,Cemi,Müzekker,Gaib,Yardım olundular,Cemi gaip erler geçmiş zamanda,nasara_mazi_meçhul
+4,نُصِرَتْ,Nüsirat,Müfred,Müennes,Gaibe,Yardım olundu,Bir gaibe avrat geçmiş zamanda,nasara_mazi_meçhul
+5,نُصِرَتَا,Nüsirate,Tesniye,Müennes,Gaibe,Yardım olundular,İki gaibe avratlar geçmiş zamanda,nasara_mazi_meçhul
+6,نُصِرْنَ,Nüsirne,Cemi,Müennes,Gaibe,Yardım olundular,Cemi gaibe avratlar geçmiş zamanda,nasara_mazi_meçhul
+7,نُصِرْتَ,Nüsirte,Müfred,Müzekker,Muhatab,Yardım olundun,Bir hazır er geçmiş zamanda,nasara_mazi_meçhul
+8,نُصِرْتُمَا,Nüsirtüma,Tesniye,Müzekker,Muhatab,Yardım olundunuz,iki hazır erler geçmiş zamanda,nasara_mazi_meçhul
+9,نُصِرْتُمْ,Nüsirtüm,Cemi,Müzekker,Muhatab,Yardım olundunuz,Cemi hazır erler geçmiş zamanda,nasara_mazi_meçhul
+10,نُصِرْتِ,Nüsirti,Müfred,Müennes,Muhataba,Yardım olundun,Bir hazıra avrat geçmiş zamanda,nasara_mazi_meçhul
+11,نُصِرْتُمَا,Nüsirtüma,Tesniye,Müennes,Muhataba,Yardım olundunuz,İki hazıra avratlar geçmiş zamanda,nasara_mazi_meçhul
+12,نُصِرْتُنَّ,Nüsirtünne,Cemi,Müennes,Muhataba,Yardım olundunuz,Cemi hazıra avratlar geçmiş zamanda,nasara_mazi_meçhul
+13,نُصِرْتُ,Nüsirtü,Müfred,Nefsi Mütekellim,Vahde,Yardım olundum,Ben geçmiş zamanda,nasara_mazi_meçhul
+14,نُصِرْنَا,Nüsirna,Tesniye,Nefsi Mütekellim,Vahde gayr,Yardım olunduk,Biz geçmiş zamanda,nasara_mazi_meçhul
+1,يَنْصُرُ,Yensuru,Müfred,Müzekker,Gaib,Yardım Eder,Bir gaip er şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+2,يَنْصُرَانِ,Yensurani,Tesniye,Müzekker,Gaib,Yardım Ederler,İki gaip erler şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+3,يَنْصُرُونَ,Yensurune,Cemi,Müzekker,Gaib,Yardım Ederler,Cemi gaip erler şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+4,تَنْصُرُ,Tensuru,Müfred,Müennes,Gaibe,Yardım Eder,Bir gaibe avrat şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+5,تَنْصُرَانِ,Tensurani,Tesniye,Müennes,Gaibe,Yardım Ederler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+6,يَنْصُرْنَ,Yensurne,Cemi,Müennes,Gaibe,Yardım Ederler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+7,تَنْصُرُ,Tensuru,Müfred,Müzekker,Muhatab,Yardım Edersin,Bir hazır er şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+8,تَنْصُرَانِ,Tensurani,Tesniye,Müzekker,Muhatab,Yardım Edersiniz,İki hazır erler şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+9,تَنْصُرُونَ,Tensurune,Cemi,Müzekker,Muhatab,Yardım Edersiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+10,تَنْصُرِينَ,Tensurine,Müfred,Müennes,Muhataba,Yardım Edersin,Bir hazıra avrat şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+11,تَنْصُرَانِ,Tensurani,Tesniye,Müennes,Muhataba,Yardım Edersiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+12,تَنْصُرْنَ,Tensurne,Cemi,Müennes,Muhataba,Yardım Edersiniz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+13,اَنْصُرُ,Ensuru,Müfred,Nefsi Mütekellim,Vahde,Yardım Ederim,Ben şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+14,نَنْصُرُ,Nensuru,Tesniye,Nefsi Mütekellim,Vahde gayr,Yardım Ederiz,Biz şimdiki halde veya gelecek zamanda,nasara_muzari_malum
+1,يُنْصَرُ,Yünsaru,Müfred,Müzekker,Gaib,Yardım Olunur,Bir gaip er şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+2,يُنْصَرَانِ,Yünsarani,Tesniye,Müzekker,Gaib,Yardım Olunurlar,İki gaip erler şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+3,يُنْصَرُونَ,Yünsarune,Cemi,Müzekker,Gaib,Yardım Olunurlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+4,تُنْصَرُ,Tünsaru,Müfred,Müennes,Gaibe,Yardım Olunur,Bir gaibe avrat şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+5,تُنْصَرَانِ,Tünsarani,Tesniye,Müennes,Gaibe,Yardım Olunurlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+6,يُنْصَرْنَ,Yünsarne,Cemi,Müennes,Gaibe,Yardım Olunurlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+7,تُنْصَرُ,Tünsaru,Müfred,Müzekker,Muhatab,Yardım Olunursun,Bir hazır er şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+8,تُنْصَرَانِ,Tünsarani,Tesniye,Müzekker,Muhatab,Yardım Olunursunuz,İki hazır erler şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+9,تُنْصَرُونَ,Tünsarune,Cemi,Müzekker,Muhatab,Yardım Olunursunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+10,تُنْصَرِينَ,Tünsarine,Müfred,Müennes,Muhataba,Yardım Olunursun,Bir hazır avrat şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+11,تُنْصَرَانِ,Tünsarani,Tesniye,Müennes,Muhataba,Yardım Olunursunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+12,تُنْصَرْنَ,Tünsarne,Cemi,Müennes,Muhataba,Yardım Olunursunuz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+13,اُنْصَرُ,Ünsaru,Müfred,Nefsi Mütekellim,Vahde,Yardım Olunurum,Ben şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+14,نُنْصَرُ,Nünsaru,Tesniye,Nefsi Mütekellim,Vahde gayr,Yardım Olunuruz,Biz şimdiki halde veya gelecek zamanda,nasara_muzari_meçhul
+1,كَتَبَ,Ketebe,Müfred,Müzekker,Gaib,Yazdı,Bir gaip er geçmiş zamanda,ketebe_mazi_malum
+2,كَتَبَا,Ketebaa,Tesniye,Müzekker,Gaib,Yazdılar,İki gaip erler geçmiş zamanda,ketebe_mazi_malum
+3,كَتَبُوا,Ketebuu,Cemi,Müzekker,Gaib,Yazdılar,Cemi gaip erler geçmiş zamanda,ketebe_mazi_malum
+4,كَتَبَتْ,Ketebet,Müfred,Müennes,Gaibe,Yazdı,Bir gaibe avrat geçmiş zamanda,ketebe_mazi_malum
+5,كَتَبَتَا,Ketebeta,Tesniye,Müennes,Gaibe,Yazdılar,İki gaibe avratlar geçmiş zamanda,ketebe_mazi_malum
+6,كَتَبْنَ,Ketebne,Cemi,Müennes,Gaibe,Yazdılar,Cemi gaibe avratlar geçmiş zamanda,ketebe_mazi_malum
+7,كَتَبْتَ,Ketebte,Müfred,Müzekker,Muhatab,Yazdın,Bir hazır er geçmiş zamanda,ketebe_mazi_malum
+8,كَتَبْتُمَا,Ketebtüma,Tesniye,Müzekker,Muhatab,Yazdınız,iki hazır erler geçmiş zamanda,ketebe_mazi_malum
+9,كَتَبْتُمْ,Ketebtüm,Cemi,Müzekker,Muhatab,Yazdınız,Cemi hazır erler geçmiş zamanda,ketebe_mazi_malum
+10,كَتَبْتِ,Ketebti,Müfred,Müennes,Muhataba,Yazdın,Bir hazıra avrat geçmiş zamanda,ketebe_mazi_malum
+11,كَتَبْتُمَا,Ketebtüma,Tesniye,Müennes,Muhataba,Yazdınız,İki hazıra avratlar geçmiş zamanda,ketebe_mazi_malum
+12,كَتَبْتُنَّ,Ketebtünne,Cemi,Müennes,Muhataba,Yazdınız,Cemi hazıra avratlar geçmiş zamanda,ketebe_mazi_malum
+13,كَتَبْتُ,Ketebtü,Müfred,Nefsi Mütekellim,Vahde,Yazdım,Ben geçmiş zamanda,ketebe_mazi_malum
+14,كَتَبْنَا,Ketebna,Tesniye,Nefsi Mütekellim,Vahde gayr,Yazdık,Biz geçmiş zamanda,ketebe_mazi_malum
+1,كُتِبَ,Kütibe,Müfred,Müzekker,Gaib,Yazıldı,Bir gaip er geçmiş zamanda,ketebe_mazi_meçhul
+2,كُتِبَا,Kütiba,Tesniye,Müzekker,Gaib,Yazıldılar,İki gaip erler geçmiş zamanda,ketebe_mazi_meçhul
+3,كُتِبُو,Kütibuu,Cemi,Müzekker,Gaib,Yazıldılar,Cemi gaip erler geçmiş zamanda,ketebe_mazi_meçhul
+4,كُتِبَتْ,Kütibet,Müfred,Müennes,Gaibe,Yazıldı,Bir gaibe avrat geçmiş zamanda,ketebe_mazi_meçhul
+5,كُتِبَتَا,Kütibeta,Tesniye,Müennes,Gaibe,Yazıldılar,İki gaibe avratlar geçmiş zamanda,ketebe_mazi_meçhul
+6,كُتِبْنَ,Kütibne,Cemi,Müennes,Gaibe,Yazıldılar,Cemi gaibe avratlar geçmiş zamanda,ketebe_mazi_meçhul
+7,كُتِبْتَ,Kütibte,Müfred,Müzekker,Muhatab,Yazıldın,Bir hazır er geçmiş zamanda,ketebe_mazi_meçhul
+8,كُتِبْتُمَا,Kütibtüma,Tesniye,Müzekker,Muhatab,Yazıldınız,iki hazır erler geçmiş zamanda,ketebe_mazi_meçhul
+9,كُتِبْتُمْ,Kütibtüm,Cemi,Müzekker,Muhatab,Yazıldınız,Cemi hazır erler geçmiş zamanda,ketebe_mazi_meçhul
+10,كُتِبْتِ,Kütibti,Müfred,Müennes,Muhataba,Yazıldın,Bir hazıra avrat geçmiş zamanda,ketebe_mazi_meçhul
+11,كُتُبْتُمَا,Kütibtüma,Tesniye,Müennes,Muhataba,Yazıldınız,İki hazıra avratlar geçmiş zamanda,ketebe_mazi_meçhul
+12,كُتُبْتُنَّ,Kütibtünne,Cemi,Müennes,Muhataba,Yazıldınız,Cemi hazıra avratlar geçmiş zamanda,ketebe_mazi_meçhul
+13,كُتِبْتُ,Kütibtü,Müfred,Nefsi Mütekellim,Vahde,Yazildim,Ben geçmiş zamanda,ketebe_mazi_meçhul
+14,كُتِبْنَا,Kütibna,Tesniye,Nefsi Mütekellim,Vahde gayr,Yazıldık,Biz geçmiş zamanda,ketebe_mazi_meçhul
+1,يَكْتُبُ,Yektubu,Müfred,Müzekker,Gaib,Yazar,Bir gaip er şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+2,يَكْتُبَانِ,Yektubani,Tesniye,Müzekker,Gaib,Yazarlar,İki gaip erler şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+3,يَكْتُبُنَ,Yektubune,Cemi,Müzekker,Gaib,Yazarlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+4,تَكْتُبُ,Tektubu,Müfred,Müennes,Gaibe,Yazar,Bir gaibe avrat şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+5,تَكْتُبَانِ,Tektubani,Tesniye,Müennes,Gaibe,Yazarlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+6,يَكْتُبْنَ,Yektubne,Cemi,Müennes,Gaibe,Yazarlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+7,تَكْتُبُ,Tektubu,Müfred,Müzekker,Muhatab,Yazarsın,Bir hazır er şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+8,تَكْتُبَانِ,Tektubani,Tesniye,Müzekker,Muhatab,Yazarsınız,İki hazır erler şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+9,تَكْتُبُنَ,Tektubune,Cemi,Müzekker,Muhatab,Yazarsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+10,تَكْتُبِنَ,Tektübine,Müfred,Müennes,Muhataba,Yazarsın,Bir hazıra avrat şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+11,تَكْتُبَانِ,Tektubani,Tesniye,Müennes,Muhataba,Yazıyorsunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+12,تَكْتُبْنَ,Tektubne,Cemi,Müennes,Muhataba,Yazarsınız,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+13,اَكْتُبُ,Ektubu,Müfred,Nefsi Mütekellim,Vahde,Yazarım,Ben şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+14,نَكْتُبُ,Nektubu,Tesniye,Nefsi Mütekellim,Vahde gayr,Yazarız,Biz şimdiki halde veya gelecek zamanda,ketebe_muzari_malum
+1,يُكْتَبُ,Yüktebu,Müfred,Müzekker,Gaib,Yazılır,Bir gaip er şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+2,يُكْتَبَانِ,Yüktebani,Tesniye,Müzekker,Gaib,Yazılırlar,İki gaip erler şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+3,يُكْتَبُونَ,Yüktebune,Cemi,Müzekker,Gaib,Yazılırlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+4,تُكْتَبُ,Tüktebu,Müfred,Müennes,Gaibe,Yazılır,Bir gaibe avrat şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+5,تُكْتَبَانِ,Tüktebani,Tesniye,Müennes,Gaibe,Yazılırlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+6,يُكْتَبْنَ,Yüktebne,Cemi,Müennes,Gaibe,Yazılırlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+7,تُكْتَبُ,Tüktebu,Müfred,Müzekker,Muhatab,Yazılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+8,تُكْتَبَانِ,Tüktebani,Tesniye,Müzekker,Muhatab,Yazılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+9,تُكْتَبُانَ,Tüktebune,Cemi,Müzekker,Muhatab,Yazarsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+10,تُكْتَبِينَ,Tüktebine,Müfred,Müennes,Muhataba,Yazılırsın,Bir hazır avrat şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+11,تُكْتَبَانِ,Tüktebani,Tesniye,Müennes,Muhataba,Yazılırsıınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+12,تُكْتَبْنَ,Tüktebne,Cemi,Müennes,Muhataba,Yazılırsınız,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+13,أُكْتَبُ,Üktebu,Müfred,Nefsi Mütekellim,Vahde,Yazılırım,Ben şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+14,نُكْتَبُ,Nüktebu,Tesniye,Nefsi Mütekellim,Vahde gayr,Yazılırız,Biz şimdiki halde veya gelecek zamanda,ketebe_muzari_meçhul
+1,ضَرَبَ,Darabe,Müfred,Müzekker,Gaib,Vurdu,Bir gaip er geçmiş zamanda,darabe_mazi_malum
+2,ضَرَبَا,Daraba,Tesniye,Müzekker,Gaib,Vurdular,İki gaip erler geçmiş zamanda,darabe_mazi_malum
+3,ضَرَبُو,Darabu,Cemi,Müzekker,Gaib,Vurdular,Cemi gaip erler geçmiş zamanda,darabe_mazi_malum
+4,ضَرَبَتْ,Darabet,Müfred,Müennes,Gaibe,Vurdu,Bir gaibe avrat geçmiş zamanda,darabe_mazi_malum
+5,ضَرَبَتَا,Darabeta,Tesniye,Müennes,Gaibe,Vurdular,İki gaibe avratlar geçmiş zamanda,darabe_mazi_malum
+6,ضَرَبْنَ,Darabne,Cemi,Müennes,Gaibe,Vurdular,Cemi gaibe avratlar geçmiş zamanda,darabe_mazi_malum
+7,ضَرَبْتَ,Darabte,Müfred,Müzekker,Muhatab,Vuruldun,Bir hazır er geçmiş zamanda,darabe_mazi_malum
+8,ضَرَبْتُمَا,Darabtüma,Tesniye,Müzekker,Muhatab,Vurdunuz,iki hazır erler geçmiş zamanda,darabe_mazi_malum
+9,ضَرَبْتُمْ,Darabtüm,Cemi,Müzekker,Muhatab,Vuruldunuz,Cemi hazır erler geçmiş zamanda,darabe_mazi_malum
+10,ضَرَبْتِ,Darabti,Müfred,Müennes,Muhataba,Vuruldun,Bir hazıra avrat geçmiş zamanda,darabe_mazi_malum
+11,ضَرَبْتُمَا,Darabtüma,Tesniye,Müennes,Muhataba,Vurdunuz,İki hazıra avratlar geçmiş zamanda,darabe_mazi_malum
+12,ضَرَبْتُنَّ,Darabtünne,Cemi,Müennes,Muhataba,Vuruldunuz,Cemi hazıra avratlar geçmiş zamanda,darabe_mazi_malum
+13,ضَرَبْتُ,Darabtü,Müfred,Nefsi Mütekellim,Vahde,Vurdum,Ben geçmiş zamanda,darabe_mazi_malum
+14,ضَرَبْنَا,Darabna,Tesniye,Nefsi Mütekellim,Vahde gayr,Vurduk,Biz geçmiş zamanda,darabe_mazi_malum
+1,ضُرِبَ,Duribe,Müfred,Müzekker,Gaib,Vuruldu,Bir gaip er geçmiş zamanda,darabe_mazi_meçhul
+2,ضُرِبَا,Duriba,Tesniye,Müzekker,Gaib,Vuruldular,İki gaip erler geçmiş zamanda,darabe_mazi_meçhul
+3,ضُرِبُو,Duribu,Cemi,Müzekker,Gaib,Vuruldular,Cemi gaip erler geçmiş zamanda,darabe_mazi_meçhul
+4,ضُرِبَتْ,Duribet,Müfred,Müennes,Gaibe,Vuruldu,Bir gaibe avrat geçmiş zamanda,darabe_mazi_meçhul
+5,ضُرِبَتَا,Duribeta,Tesniye,Müennes,Gaibe,Vuruldular,İki gaibe avratlar geçmiş zamanda,darabe_mazi_meçhul
+6,ضُرِبْنَ,Duribne,Cemi,Müennes,Gaibe,Vuruldular,Cemi gaibe avratlar geçmiş zamanda,darabe_mazi_meçhul
+7,ضُرِبْتَ,Duribte,Müfred,Müzekker,Muhatab,Vuruldun,Bir hazır er geçmiş zamanda,darabe_mazi_meçhul
+8,ضُرِبْتُمَا,Duribtüma,Tesniye,Müzekker,Muhatab,Vuruldunuz,iki hazır erler geçmiş zamanda,darabe_mazi_meçhul
+9,ضُرِبْتُمْ,Duribtüm,Cemi,Müzekker,Muhatab,Vuruldunuz,Cemi hazır erler geçmiş zamanda,darabe_mazi_meçhul
+10,ضُرِبْتِ,Duribti,Müfred,Müennes,Muhataba,Vuruldun,Bir hazıra avrat geçmiş zamanda,darabe_mazi_meçhul
+11,ضُرِبْتُمَا,Duribtüma,Tesniye,Müennes,Muhataba,Vuruldunuz,İki hazıra avratlar geçmiş zamanda,darabe_mazi_meçhul
+12,ضُرِبْتُنَّ,Duribtünne,Cemi,Müennes,Muhataba,Vuruldunuz,Cemi hazıra avratlar geçmiş zamanda,darabe_mazi_meçhul
+13,ضُرِبْتُ,Duribtü,Müfred,Nefsi Mütekellim,Vahde,Vuruldum,Ben geçmiş zamanda,darabe_mazi_meçhul
+14,ضُرِبْنَا,Duribna,Tesniye,Nefsi Mütekellim,Vahde gayr,Vurulduk,Biz geçmiş zamanda,darabe_mazi_meçhul
+1,يَضْرِبُ,Yedribu,Müfred,Müzekker,Gaib,Vurur,Bir gaip er şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+2,يَضْرِبَانِ,Yedribani,Tesniye,Müzekker,Gaib,Vururlar,İki gaip erler şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+3,يَضْرِبُونَا,Yedribune,Cemi,Müzekker,Gaib,Vururlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+4,تَضْرِبُ,Tedribu,Müfred,Müennes,Gaibe,Vurur,Bir gaibe avrat şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+5,تَضْرِبَانِ,Tedribani,Tesniye,Müennes,Gaibe,Vururlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+6,يَضْرِبْنَ,Yedribne,Cemi,Müennes,Gaibe,Vururlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+7,تَضْرِبُ,Tedribu,Müfred,Müzekker,Muhatab,Vurulursun,Bir hazır er şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+8,تَضْرِبَانِ,Tedribani,Tesniye,Müzekker,Muhatab,Vurursunuz,İki hazır erler şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+9,تَضْرِبُونَ,Tedribune,Cemi,Müzekker,Muhatab,Vurursunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+10,تَضْرِبِينَ,Tedribine,Müfred,Müennes,Muhataba,Vurursun,Bir hazıra avrat şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+11,تَضْرِبَانِ,Tedribani,Tesniye,Müennes,Muhataba,Vurulursunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+12,تَضْرِبْنَ,Tedribne,Cemi,Müennes,Muhataba,Vurursunuz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+13,أَضْرِبُ,Edribu,Müfred,Nefsi Mütekellim,Vahde,Vururum,Ben şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+14,نَضْرِبُ,Nedribu,Tesniye,Nefsi Mütekellim,Vahde gayr,Vuruluruz,Biz şimdiki halde veya gelecek zamanda,darabe_muzari_malum
+1,يَضْرَبُ,Yedrabu,Müfred,Müzekker,Gaib,Vurulur,Bir gaip er şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+2,يُضْرَبَانِ,Yüdrabani,Tesniye,Müzekker,Gaib,Vurulurlar,İki gaip erler şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+3,يُضْرَبُونَ,Yüdrabune,Cemi,Müzekker,Gaib,Vurulurlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+4,تُضْرَبُ,Tüdrabu,Müfred,Müennes,Gaibe,Vurulur,Bir gaibe avrat şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+5,تُضْرَبَانِ,Tüdrabani,Tesniye,Müennes,Gaibe,Vurulurlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+6,يُضْرَبْنَ,Yüdrabne,Cemi,Müennes,Gaibe,Vurulurlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+7,تُضْرَبُ,Tüdrabu,Müfred,Müzekker,Muhatab,Vurulursun,Bir hazır er şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+8,تُضْرَبَانِ,Tüdrabani,Tesniye,Müzekker,Muhatab,Vurulursunuz,İki hazır erler şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+9,تُضْرَبُونَ,Tüdrabune,Cemi,Müzekker,Muhatab,Vurursunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+10,تُضْرَبِينَ,Tüdrabine,Müfred,Müennes,Muhataba,Vurulursun,Bir hazır avrat şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+11,تُضْرَبَانِ,Tüdrabani,Tesniye,Müennes,Muhataba,Vurulursunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+12,تُضْرَبْنَ,Tüdrabne,Cemi,Müennes,Muhataba,Vurulursunuz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+13,أُضْرَبُ,Üdrabu,Müfred,Nefsi Mütekellim,Vahde,Vurulurum,Ben şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+14,نُضْرَبُ,Nüdrabu,Tesniye,Nefsi Mütekellim,Vahde gayr,Vuruluruz,Biz şimdiki halde veya gelecek zamanda,darabe_muzari_meçhul
+1,فَتَحَ,Fetaha,Müfred,Müzekker,Gaib,Açtı,Bir gaip er geçmiş zamanda,fetaha_mazi_malum
+2,فَتَحَا,Fetahaa,Tesniye,Müzekker,Gaib,Açtılar,İki gaip erler geçmiş zamanda,fetaha_mazi_malum
+3,فَتَحُوا,Fetahuu,Cemi,Müzekker,Gaib,Açtılar,Cemi gaip erler geçmiş zamanda,fetaha_mazi_malum
+4,فَتَحَتْ,Fetehat,Müfred,Müennes,Gaibe,Açtı,Bir gaibe avrat geçmiş zamanda,fetaha_mazi_malum
+5,فَتَحَتَا,Fetehate,Tesniye,Müennes,Gaibe,Açtılar,İki gaibe avratlar geçmiş zamanda,fetaha_mazi_malum
+6,فَتَحْنَ,Fetehne,Cemi,Müennes,Gaibe,Açtılar,Cemi gaibe avratlar geçmiş zamanda,fetaha_mazi_malum
+7,فَتَحْتَ,Fetehte,Müfred,Müzekker,Muhatab,Açtın,Bir hazır er geçmiş zamanda,fetaha_mazi_malum
+8,فَتَحْتُمَا,Fetehtüma,Tesniye,Müzekker,Muhatab,Açtınız,iki hazır erler geçmiş zamanda,fetaha_mazi_malum
+9,فَتَحْتُمْ,Fetehtüm,Cemi,Müzekker,Muhatab,Açtınız,Cemi hazır erler geçmiş zamanda,fetaha_mazi_malum
+10,فَتَحْتِ,Fetehti,Müfred,Müennes,Muhataba,Açtın,Bir hazıra avrat geçmiş zamanda,fetaha_mazi_malum
+11,فَتَحْتُمَا,Fetehtüma,Tesniye,Müennes,Muhataba,Açtınız,İki hazıra avratlar geçmiş zamanda,fetaha_mazi_malum
+12,فَتَحْتُنَّ,Fetehtünne,Cemi,Müennes,Muhataba,Açtınız,Cemi hazıra avratlar geçmiş zamanda,fetaha_mazi_malum
+13,فَتَحْتُ,Fetehtü,Müfred,Nefsi Mütekellim,Vahde,Açtım,Ben geçmiş zamanda,fetaha_mazi_malum
+14,فَتَحْنَا,Fetehna,Tesniye,Nefsi Mütekellim,Vahde gayr,Açtık,Biz geçmiş zamanda,fetaha_mazi_malum
+1,فُتِحَ,Fütiha,Müfred,Müzekker,Gaib,Açıldı,Bir gaip er geçmiş zamanda,fetaha_mazi_meçhul
+2,فُتِحَا,Fütihaa,Tesniye,Müzekker,Gaib,Açıldılar,İki gaip erler geçmiş zamanda,fetaha_mazi_meçhul
+3,فُتِحُوا,Fütihuu,Cemi,Müzekker,Gaib,Açıldılar,Cemi gaip erler geçmiş zamanda,fetaha_mazi_meçhul
+4,فُتِحَتْ,Fütihet,Müfred,Müennes,Gaibe,Açıldı,Bir gaibe avrat geçmiş zamanda,fetaha_mazi_meçhul
+5,فُتِحَتَا,Fütihate,Tesniye,Müennes,Gaibe,Açıldılar,İki gaibe avratlar geçmiş zamanda,fetaha_mazi_meçhul
+6,فُتِحْنَ,Fütihne,Cemi,Müennes,Gaibe,Açıldılar,Cemi gaibe avratlar geçmiş zamanda,fetaha_mazi_meçhul
+7,فُتِحْتَ,Fütihte,Müfred,Müzekker,Muhatab,Açıldın,Bir hazır er geçmiş zamanda,fetaha_mazi_meçhul
+8,فُتِحْتُمَا,Fütihtüma,Tesniye,Müzekker,Muhatab,Açıldınız,iki hazır erler geçmiş zamanda,fetaha_mazi_meçhul
+9,فُتِحْتُمْ,Fütihtüm,Cemi,Müzekker,Muhatab,Açıldınız,Cemi hazır erler geçmiş zamanda,fetaha_mazi_meçhul
+10,فُتِحْتِ,Fütihti,Müfred,Müennes,Muhataba,Açıldın,Bir hazıra avrat geçmiş zamanda,fetaha_mazi_meçhul
+11,فُتِحْتُمَا,Fütihtüma,Tesniye,Müennes,Muhataba,Açıldınız,İki hazıra avratlar geçmiş zamanda,fetaha_mazi_meçhul
+12,فُتِحْتُنَّ,Fütihtünne,Cemi,Müennes,Muhataba,Açıldınız,Cemi hazıra avratlar geçmiş zamanda,fetaha_mazi_meçhul
+13,فُتِحْتُ,Fütihtü,Müfred,Nefsi Mütekellim,Vahde,Açıldım,Ben geçmiş zamanda,fetaha_mazi_meçhul
+14,فُتِحْنَا,Fütihna,Tesniye,Nefsi Mütekellim,Vahde gayr,Açıldık,Biz geçmiş zamanda,fetaha_mazi_meçhul
+1,يَفْتَحُ,Yeftehu,Müfred,Müzekker,Gaib,Açar,Bir gaip er şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+2,يَفْتَحَانِ,Yeftehani,Tesniye,Müzekker,Gaib,Açarlar,İki gaip erler şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+3,يَفْتَحُونَ,Yeftehune,Cemi,Müzekker,Gaib,Açarlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+4,تَفْتَحُ,Teftehu,Müfred,Müennes,Gaibe,Açar,Bir gaibe avrat şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+5,تَفْتَحَانِ,Teftehani,Tesniye,Müennes,Gaibe,Açarlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+6,يَفْتَحْنَ,Yeftehne,Cemi,Müennes,Gaibe,Açarlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+7,تَفْتَحُ,Teftehu,Müfred,Müzekker,Muhatab,Açarsın,Bir hazır er şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+8,تَفْتَحَانِ,Teftehani,Tesniye,Müzekker,Muhatab,Açarsınız,İki hazır erler şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+9,تَفْتَحُونَ,Teftehune,Cemi,Müzekker,Muhatab,Açarsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+10,تَفْتَحِينَ,Teftehine,Müfred,Müennes,Muhataba,Açarsın,Bir hazıra avrat şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+11,تَفْتَحَانِ,Teftehani,Tesniye,Müennes,Muhataba,Açarsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+12,تَفْتَحْنَ,Teftehne,Cemi,Müennes,Muhataba,Açarsınız,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+13,أَفْتَحُ,Eftehu,Müfred,Nefsi Mütekellim,Vahde,Açarım,Ben şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+14,نَفْتَحُ,Neftehu,Tesniye,Nefsi Mütekellim,Vahde gayr,Açarız,Biz şimdiki halde veya gelecek zamanda,fetaha_muzari_malum
+1,يُفْتَحُ,Yüftehu,Müfred,Müzekker,Gaib,Açılır,Bir gaip er şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+2,يُفْتَحَانِ,Yüftehani,Tesniye,Müzekker,Gaib,Açılırlar,İki gaip erler şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+3,يُفْتَحُونَ,Yüftehune,Cemi,Müzekker,Gaib,Açılırlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+4,تُفْتَحُ,Tüftehu,Müfred,Müennes,Gaibe,Açılır,Bir gaibe avrat şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+5,تُفْتَحَانِ,Tüftehani,Tesniye,Müennes,Gaibe,Açılırlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+6,يُفْتَحْنَ,Yüftehne,Cemi,Müennes,Gaibe,Açılırlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+7,تُفْتَحُ,Tüftehu,Müfred,Müzekker,Muhatab,Açılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+8,تُفْتَحَانِ,Tüftehani,Tesniye,Müzekker,Muhatab,Açılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+9,تُفْتَحُونَ,Tüftehune,Cemi,Müzekker,Muhatab,Açılırsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+10,تُفْتَحِينَ,Tüftehine,Müfred,Müennes,Muhataba,Açılırsın,Bir hazır avrat şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+11,تُفْتَحَانِ,Tüftehani,Tesniye,Müennes,Muhataba,Açılırsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+12,تُفْتَحْنَ,Tüftehne,Cemi,Müennes,Muhataba,Açılırsınız,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+13,أَفْتَحُ,Üftehu,Müfred,Nefsi Mütekellim,Vahde,Açılırım,Ben şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+14,نَفْتَحُ,Nüftehu,Tesniye,Nefsi Mütekellim,Vahde gayr,Açılırız,Biz şimdiki halde veya gelecek zamanda,fetaha_muzari_meçhul
+1,عَلِمَ,Alime,Müfred,Müzekker,Gaib,Bildi,Bir gaip er geçmiş zamanda,alİme_mazi_malum
+2,عَلِمَا,Alima,Tesniye,Müzekker,Gaib,Bildiler,İki gaip erler geçmiş zamanda,alİme_mazi_malum
+3,عَلِمُوا,Alimu,Cemi,Müzekker,Gaib,Bildiler,Cemi gaip erler geçmiş zamanda,alİme_mazi_malum
+4,عَلِمَتْ,Alimet,Müfred,Müennes,Gaibe,Bildi,Bir gaibe avrat geçmiş zamanda,alİme_mazi_malum
+5,عَلِمَتَا,Alimeta,Tesniye,Müennes,Gaibe,Bildiler,İki gaibe avratlar geçmiş zamanda,alİme_mazi_malum
+6,عَلِمْنَ,Alimne,Cemi,Müennes,Gaibe,Bildiler,Cemi gaibe avratlar geçmiş zamanda,alİme_mazi_malum
+7,عَلِمْتَ,Alimte,Müfred,Müzekker,Muhatab,Bildin,Bir hazır er geçmiş zamanda,alİme_mazi_malum
+8,عَلِمْتُمَا,Alimtüma,Tesniye,Müzekker,Muhatab,Bildiniz,iki hazır erler geçmiş zamanda,alİme_mazi_malum
+9,عَلِمْتُمْ,Alimtüm,Cemi,Müzekker,Muhatab,Bildiniz,Cemi hazır erler geçmiş zamanda,alİme_mazi_malum
+10,عَلِمْتِ,Alimti,Müfred,Müennes,Muhataba,Bildin,Bir hazıra avrat geçmiş zamanda,alİme_mazi_malum
+11,عَلِمْتُمَا,Alimtüma,Tesniye,Müennes,Muhataba,Bildiniz,İki hazıra avratlar geçmiş zamanda,alİme_mazi_malum
+12,عَلِمْتُنَّ,Alimtünne,Cemi,Müennes,Muhataba,Bildiniz,Cemi hazıra avratlar geçmiş zamanda,alİme_mazi_malum
+13,عَلِمْتُ,Alimtü,Müfred,Nefsi Mütekellim,Vahde,Bildim,Ben geçmiş zamanda,alİme_mazi_malum
+14,عَلِمْنَا,Alimna,Tesniye,Nefsi Mütekellim,Vahde gayr,Bildik,Biz geçmiş zamanda,alİme_mazi_malum
+1,عُلِمَ,Ulime,Müfred,Müzekker,Gaib,Bilindi,Bir gaip er geçmiş zamanda,alİme_mazi_meçhul
+2,عُلِمَا,Ulima,Tesniye,Müzekker,Gaib,Bilindiler,İki gaip erler geçmiş zamanda,alİme_mazi_meçhul
+3,عُلِمُوا,Ulimu,Cemi,Müzekker,Gaib,Bilindiler,Cemi gaip erler geçmiş zamanda,alİme_mazi_meçhul
+4,عُلِمَتْ,Ulimet,Müfred,Müennes,Gaibe,Bilindi,Bir gaibe avrat geçmiş zamanda,alİme_mazi_meçhul
+5,عُلِمَتَا,Ulimeta,Tesniye,Müennes,Gaibe,Bilindiler,İki gaibe avratlar geçmiş zamanda,alİme_mazi_meçhul
+6,عُلِمْنَ,Ulimne,Cemi,Müennes,Gaibe,Bilindiler,Cemi gaibe avratlar geçmiş zamanda,alİme_mazi_meçhul
+7,عُلِمْتَ,Ulimte,Müfred,Müzekker,Muhatab,Bilindin,Bir hazır er geçmiş zamanda,alİme_mazi_meçhul
+8,عُلِمْتُمَا,Ulimtüma,Tesniye,Müzekker,Muhatab,Bilindiniz,iki hazır erler geçmiş zamanda,alİme_mazi_meçhul
+9,عُلِمْتُمْ,Ulimtüm,Cemi,Müzekker,Muhatab,Bilindiniz,Cemi hazır erler geçmiş zamanda,alİme_mazi_meçhul
+10,عُلِمْتِ,Ulimti,Müfred,Müennes,Muhataba,Bilindin,Bir hazıra avrat geçmiş zamanda,alİme_mazi_meçhul
+11,عُلِمْتُمَا,Ulimtüma,Tesniye,Müennes,Muhataba,Bilindiniz,İki hazıra avratlar geçmiş zamanda,alİme_mazi_meçhul
+12,عُلِمْتُنَّ,Ulimtünne,Cemi,Müennes,Muhataba,Bilindiniz,Cemi hazıra avratlar geçmiş zamanda,alİme_mazi_meçhul
+13,عُلِمْتُ,Ulimtü,Müfred,Nefsi Mütekellim,Vahde,bilindim,Ben geçmiş zamanda,alİme_mazi_meçhul
+14,عُلِمْنَا,Ulimna,Tesniye,Nefsi Mütekellim,Vahde gayr,Bilindik,Biz geçmiş zamanda,alİme_mazi_meçhul
+1,يَعْلَمُ,Yeğlemu,Müfred,Müzekker,Gaib,Bilir,Bir gaip er şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+2,يَعْلَمَانِ,Yeğlemani,Tesniye,Müzekker,Gaib,Bilirler,İki gaip erler şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+3,يَعْلَمُانَ,Yeğlemune,Cemi,Müzekker,Gaib,Bilirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+4,تَعْلَمُ,Teğlemu,Müfred,Müennes,Gaibe,Bilir,Bir gaibe avrat şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+5,تَعْلَمَانِ,Teğlemani,Tesniye,Müennes,Gaibe,Bilirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+6,يَعْلَمْنَ,Yeğlemne,Cemi,Müennes,Gaibe,Bilirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+7,تَعْلَمُ,Teğlemu,Müfred,Müzekker,Muhatab,Bilirsin,Bir hazır er şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+8,تَعْلَمَانِ,Teğlemani,Tesniye,Müzekker,Muhatab,Bilirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+9,تَعْلَمُنَ,Teğlemune,Cemi,Müzekker,Muhatab,Bilirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+10,تَعْلَمِينَ,Teğlemine,Müfred,Müennes,Muhataba,Bilirsin,Bir hazıra avrat şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+11,تَعْلَمَانِ,Teğlemani,Tesniye,Müennes,Muhataba,Bilirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+12,تَعْلَمْنَ,Teğlemne,Cemi,Müennes,Muhataba,Bilirsiniz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+13,أَعْلَمُ,Eğlemu,Müfred,Nefsi Mütekellim,Vahde,Bilirim,Ben şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+14,نَعْلَمُ,Neğlemu,Tesniye,Nefsi Mütekellim,Vahde gayr,Biliriz,Biz şimdiki halde veya gelecek zamanda,alİme_muzari_malum
+1,يُعْلَمُ,Yüğlemu,Müfred,Müzekker,Gaib,Bilinir,Bir gaip er şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+2,يُعْلَمَانِ,Yüğlemani,Tesniye,Müzekker,Gaib,Bilinirler,İki gaip erler şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+3,يُعْلَمُونَ,Yüğlemune,Cemi,Müzekker,Gaib,Bilinirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+4,تُعْلَمُ,Tuğlemu,Müfred,Müennes,Gaibe,Bilinir,Bir gaibe avrat şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+5,تُعْلَمَانِ,Tuğlemani,Tesniye,Müennes,Gaibe,Bilinirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+6,يُعْلَمْنَ,Yuğlemne,Cemi,Müennes,Gaibe,Bilinirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+7,تُعْلَمُ,Tuğlemu,Müfred,Müzekker,Muhatab,Bilinirsin,Bir hazır er şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+8,تُعْلَمَانِ,Tuğlemani,Tesniye,Müzekker,Muhatab,Bilinirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+9,تُعْلَمُونَ,Tuğlemune,Cemi,Müzekker,Muhatab,Bilinirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+10,تُعْلَمِينَ,Tuğlemine,Müfred,Müennes,Muhataba,Bilinirsin,Bir hazır avrat şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+11,تُعْلَمَانِ,Tuğlemani,Tesniye,Müennes,Muhataba,Bilinirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+12,تُعْلَمْنَ,Tuğlemne,Cemi,Müennes,Muhataba,Bilinirsiniz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+13,أُعْلَمُ,Uğlemu,Müfred,Nefsi Mütekellim,Vahde,Bilinirim,Ben şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+14,نُعْلَمُ,Nuğlemu,Tesniye,Nefsi Mütekellim,Vahde gayr,Biliniriz,Biz şimdiki halde veya gelecek zamanda,alİme_muzari_meçhul
+1,حَسِبَ,Hasibe,Müfred,Müzekker,Gaib,Sandı,Bir gaip er geçmiş zamanda,hasİbe_mazi_malum
+2,حَسِبَا,Hasibaa,Tesniye,Müzekker,Gaib,Sandılar,İki gaip erler geçmiş zamanda,hasİbe_mazi_malum
+3,حَسِبُوا,Hasibuu,Cemi,Müzekker,Gaib,Sandılar,Cemi gaip erler geçmiş zamanda,hasİbe_mazi_malum
+4,حَسِبَتْ,Hasibet,Müfred,Müennes,Gaibe,Sandı,Bir gaibe avrat geçmiş zamanda,hasİbe_mazi_malum
+5,حَسِبَتَا,Hasibeta,Tesniye,Müennes,Gaibe,Sandılar,İki gaibe avratlar geçmiş zamanda,hasİbe_mazi_malum
+6,حَسِبْنَ,Hasibne,Cemi,Müennes,Gaibe,Sandılar,Cemi gaibe avratlar geçmiş zamanda,hasİbe_mazi_malum
+7,حَسِبْتَ,Hasibte,Müfred,Müzekker,Muhatab,Sandın,Bir hazır er geçmiş zamanda,hasİbe_mazi_malum
+8,حَسِبْتُمَا,Hasibtüma,Tesniye,Müzekker,Muhatab,Sandınız,iki hazır erler geçmiş zamanda,hasİbe_mazi_malum
+9,حَسِبْتُمْ,Hasibtüm,Cemi,Müzekker,Muhatab,Sandınız,Cemi hazır erler geçmiş zamanda,hasİbe_mazi_malum
+10,حَسِبْتِ,Hasibti,Müfred,Müennes,Muhataba,Sandın,Bir hazıra avrat geçmiş zamanda,hasİbe_mazi_malum
+11,حَسِبْتُمَا,Hasibtüma,Tesniye,Müennes,Muhataba,Sandınız,İki hazıra avratlar geçmiş zamanda,hasİbe_mazi_malum
+12,حَسِبْتُنَّ,Hasibtünne,Cemi,Müennes,Muhataba,Sandınız,Cemi hazıra avratlar geçmiş zamanda,hasİbe_mazi_malum
+13,حَسِبْتُ,Hasibtü,Müfred,Nefsi Mütekellim,Vahde,Sandım,Ben geçmiş zamanda,hasİbe_mazi_malum
+14,حَسِبْنَا,Hasibne,Tesniye,Nefsi Mütekellim,Vahde gayr,Sandık,Biz geçmiş zamanda,hasİbe_mazi_malum
+1,حُسِبَ,Husibe,Müfred,Müzekker,Gaib,Sanıldı,Bir gaip er geçmiş zamanda,hasİbe_mazi_meçhul
+2,حُسِبَا,Husibaa,Tesniye,Müzekker,Gaib,Sanıldılar,İki gaip erler geçmiş zamanda,hasİbe_mazi_meçhul
+3,حُسِبُوا,Husibuu,Cemi,Müzekker,Gaib,Sanıldılar,Cemi gaip erler geçmiş zamanda,hasİbe_mazi_meçhul
+4,حُسِبَتْ,Husibet,Müfred,Müennes,Gaibe,Sanıldı,Bir gaibe avrat geçmiş zamanda,hasİbe_mazi_meçhul
+5,حُسِبَتَا,Husibeta,Tesniye,Müennes,Gaibe,Sanıldılar,İki gaibe avratlar geçmiş zamanda,hasİbe_mazi_meçhul
+6,حُسِبْنَ,Husibne,Cemi,Müennes,Gaibe,Sanıldılar,Cemi gaibe avratlar geçmiş zamanda,hasİbe_mazi_meçhul
+7,حُسِبْتَ,Husibte,Müfred,Müzekker,Muhatab,Sanıldın,Bir hazır er geçmiş zamanda,hasİbe_mazi_meçhul
+8,حُسِبْتُمَا,Husibtüma,Tesniye,Müzekker,Muhatab,Sanıldınız,iki hazır erler geçmiş zamanda,hasİbe_mazi_meçhul
+9,حُسِبْتُمْ,Husibtüm,Cemi,Müzekker,Muhatab,Sanıldınız,Cemi hazır erler geçmiş zamanda,hasİbe_mazi_meçhul
+10,حُسِبْتِ,Husibti,Müfred,Müennes,Muhataba,Sanıldın,Bir hazıra avrat geçmiş zamanda,hasİbe_mazi_meçhul
+11,حُسِبْتُمَا,Husibtüma,Tesniye,Müennes,Muhataba,Sanıldınız,İki hazıra avratlar geçmiş zamanda,hasİbe_mazi_meçhul
+12,حُسِبْتُنَّ,Husibtünne,Cemi,Müennes,Muhataba,Sanıldınız,Cemi hazıra avratlar geçmiş zamanda,hasİbe_mazi_meçhul
+13,حُسِبْتُ,Husibtü,Müfred,Nefsi Mütekellim,Vahde,Sanıldım,Ben geçmiş zamanda,hasİbe_mazi_meçhul
+14,حُسِبْنَا,Husibna,Tesniye,Nefsi Mütekellim,Vahde gayr,Sanıldık,Biz geçmiş zamanda,hasİbe_mazi_meçhul
+1,يَحْسِبُ,Yehsibu,Müfred,Müzekker,Gaib,Sanıyor,Bir gaip er şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+2,يَحْسِبَانِ,Yehsibani,Tesniye,Müzekker,Gaib,Sanıyorlar,İki gaip erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+3,يَحْسِبُونَ,Yehsibune,Cemi,Müzekker,Gaib,Sanıyorlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+4,تَحْسِبُ,Tehsibu,Müfred,Müennes,Gaibe,Sanıyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+5,تَحْسِبَانِ,Tehsibani,Tesniye,Müennes,Gaibe,Sanıyorlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+6,يَحْسِبْنَ,Yehsibne,Cemi,Müennes,Gaibe,Sanıyorlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+7,تَحْسِبُ,Tehsibu,Müfred,Müzekker,Muhatab,Sanıyorsun,Bir hazır er şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+8,تَحْسِبَانِ,Tehsibani,Tesniye,Müzekker,Muhatab,Sanıyorsunuz,İki hazır erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+9,تَحْسِبُونَ,Tehsibune,Cemi,Müzekker,Muhatab,Sanıyorsunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+10,تَحْسِبِينَ,Tehsibine,Müfred,Müennes,Muhataba,Sanıyorsun,Bir hazıra avrat şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+11,تَحْسِبَانِ,Tehsibani,Tesniye,Müennes,Muhataba,Sanıyorsunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+12,تَحْسِبْنَ,Tehsibne,Cemi,Müennes,Muhataba,Sanıyorsunuz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+13,أَحْسِبُ,Ehsibu,Müfred,Nefsi Mütekellim,Vahde,Sanıyorum,Ben şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+14,نَحْسِبُ,Nehsibu,Tesniye,Nefsi Mütekellim,Vahde gayr,Sanıyoruz,Biz şimdiki halde veya gelecek zamanda,hasİbe_muzari_malum
+1,يُحْسَبُ,Yühsebü,Müfred,Müzekker,Gaib,Sanılıyor,Bir gaip er şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+2,يُحْسَبَانِ,Yühsebani,Tesniye,Müzekker,Gaib,Sanılırlar,İki gaip erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+3,يُحْسَبُونَ,Yühsebune,Cemi,Müzekker,Gaib,Sanılırlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+4,تُحْسَبُ,Tühsebu,Müfred,Müennes,Gaibe,Sanılıyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+5,يُحْسَبَانِ,Tühsebani,Tesniye,Müennes,Gaibe,Sanılırlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+6,يُحْسَبْنَ,Yühsebne,Cemi,Müennes,Gaibe,Sanılırlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+7,تُحْسَبُ,Tühsebu,Müfred,Müzekker,Muhatab,Sanılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+8,تُحْسَبَانَ,Tühsebani,Tesniye,Müzekker,Muhatab,Sanılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+9,تُحْسَبُونَ,Tühsebune,Cemi,Müzekker,Muhatab,Sanılırsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+10,تُحْسَبِينَ,Tühsebine,Müfred,Müennes,Muhataba,Sanılırsın,Bir hazır avrat şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+11,تُحْسَبَانِ,Tühsebani,Tesniye,Müennes,Muhataba,Sanılırsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+12,تُحْسَبْنَ,Tühsebne,Cemi,Müennes,Muhataba,Sanılırsınız,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+13,أُحْسَبُ,Ühsebu,Müfred,Nefsi Mütekellim,Vahde,Sanılırım,Ben şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+14,نُحْسَبُ,Nühsebu,Tesniye,Nefsi Mütekellim,Vahde gayr,Sanılırız,Biz şimdiki halde veya gelecek zamanda,hasİbe_muzari_meçhul
+1,قَالَ,Gale,Müfred,Müzekker,Gaib,Dedi,Bir gaip er geçmiş zamanda,gale_mazi_malum
+2,قَالَا,Galea,Tesniye,Müzekker,Gaib,Dediler,İki gaip erler geçmiş zamanda,gale_mazi_malum
+3,قَالُوا,Galuu,Cemi,Müzekker,Gaib,Dediler,Cemi gaip erler geçmiş zamanda,gale_mazi_malum
+4,قَالَتْ,Galet,Müfred,Müennes,Gaibe,Dedi,Bir gaibe avrat geçmiş zamanda,gale_mazi_malum
+5,قَالَتَا,Galeta,Tesniye,Müennes,Gaibe,Dediler,İki gaibe avratlar geçmiş zamanda,gale_mazi_malum
+6,قُلْنَ,Gulne,Cemi,Müennes,Gaibe,Dediler,Cemi gaibe avratlar geçmiş zamanda,gale_mazi_malum
+7,قُلْتَ,Gulte,Müfred,Müzekker,Muhatab,Dedin,Bir hazır er geçmiş zamanda,gale_mazi_malum
+8,قُلْتُمَا,Gultüma,Tesniye,Müzekker,Muhatab,Dediniz,iki hazır erler geçmiş zamanda,gale_mazi_malum
+9,قُلْتُمْ,Gultüm,Cemi,Müzekker,Muhatab,Dediniz,Cemi hazır erler geçmiş zamanda,gale_mazi_malum
+10,قُلْتِ,Gulti,Müfred,Müennes,Muhataba,Dedin,Bir hazıra avrat geçmiş zamanda,gale_mazi_malum
+11,قُلْتُمَا,Gultüma,Tesniye,Müennes,Muhataba,Dediniz,İki hazıra avratlar geçmiş zamanda,gale_mazi_malum
+12,قُلْتُنَّ,Gultünne,Cemi,Müennes,Muhataba,Dediniz,Cemi hazıra avratlar geçmiş zamanda,gale_mazi_malum
+13,قُلْتُ,Gultü,Müfred,Nefsi Mütekellim,Vahde,Dedim,Ben geçmiş zamanda,gale_mazi_malum
+14,قُلْنَا,Gulna,Tesniye,Nefsi Mütekellim,Vahde gayr,Dedik,Biz geçmiş zamanda,gale_mazi_malum
+1,قِيلَ,Gile,Müfred,Müzekker,Gaib,Denildi,Bir gaip er geçmiş zamanda,gale_mazi_meçhul
+2,قِيلَا,Gila,Tesniye,Müzekker,Gaib,Denildiler,İki gaip erler geçmiş zamanda,gale_mazi_meçhul
+3,قِيلُوا,Gilu,Cemi,Müzekker,Gaib,Denildiler,Cemi gaip erler geçmiş zamanda,gale_mazi_meçhul
+4,قِيلَتْ,Gilet,Müfred,Müennes,Gaibe,Denildi,Bir gaibe avrat geçmiş zamanda,gale_mazi_meçhul
+5,قِيلَتَا,Gileta,Tesniye,Müennes,Gaibe,Denildiler,İki gaibe avratlar geçmiş zamanda,gale_mazi_meçhul
+6,قِلْنَ,Gilne,Cemi,Müennes,Gaibe,Denildiler,Cemi gaibe avratlar geçmiş zamanda,gale_mazi_meçhul
+7,قِلْتَ,Gilte,Müfred,Müzekker,Muhatab,Denildin,Bir hazır er geçmiş zamanda,gale_mazi_meçhul
+8,قِلْتُمَا,Giltüma,Tesniye,Müzekker,Muhatab,Denildiniz,iki hazır erler geçmiş zamanda,gale_mazi_meçhul
+9,قِلْتُمْ,Giltüm,Cemi,Müzekker,Muhatab,Denildiniz,Cemi hazır erler geçmiş zamanda,gale_mazi_meçhul
+10,قِلْتِ,Gilti,Müfred,Müennes,Muhataba,Denildin,Bir hazıra avrat geçmiş zamanda,gale_mazi_meçhul
+11,قِلْتُمَا,Giltüma,Tesniye,Müennes,Muhataba,Denildiniz,İki hazıra avratlar geçmiş zamanda,gale_mazi_meçhul
+12,قِلْتُنَّ,Giltünne,Cemi,Müennes,Muhataba,Denildiniz,Cemi hazıra avratlar geçmiş zamanda,gale_mazi_meçhul
+13,قِلْتُ,Giltü,Müfred,Nefsi Mütekellim,Vahde,Denildim,Ben geçmiş zamanda,gale_mazi_meçhul
+14,قِلْنَ,Gilna,Tesniye,Nefsi Mütekellim,Vahde gayr,Denildik,Biz geçmiş zamanda,gale_mazi_meçhul
+1,يَقُولُ,Yegulü,Müfred,Müzekker,Gaib,Deniyor,Bir gaip er şimdiki halde veya gelecek zamanda,gale_muzari_malum
+2,يَقُولانِ,Yegulani,Tesniye,Müzekker,Gaib,Deniyorlar,İki gaip erler şimdiki halde veya gelecek zamanda,gale_muzari_malum
+3,يَقُولُونَ,Yegulune,Cemi,Müzekker,Gaib,Deniyorlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,gale_muzari_malum
+4,تَقُولُ,Tegulü,Müfred,Müennes,Gaibe,Deniyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,gale_muzari_malum
+5,تَقُولانِ,Tegulani,Tesniye,Müennes,Gaibe,Deniyorlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,gale_muzari_malum
+6,يَقُلْنَ,Yegulne,Cemi,Müennes,Gaibe,Deniyorlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,gale_muzari_malum
+7,تَقُولُ,Tegulü,Müfred,Müzekker,Muhatab,Deniyorsun,Bir hazır er şimdiki halde veya gelecek zamanda,gale_muzari_malum
+8,تَقُولانِ,Tegulani,Tesniye,Müzekker,Muhatab,Deniyorsunuz,İki hazır erler şimdiki halde veya gelecek zamanda,gale_muzari_malum
+9,تَقُولُونَ,Tegulüne,Cemi,Müzekker,Muhatab,Deniyorsunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,gale_muzari_malum
+10,تَقُولِينَ,Teguline,Müfred,Müennes,Muhataba,Deniyorsun,Bir hazıra avrat şimdiki halde veya gelecek zamanda,gale_muzari_malum
+11,تَقُولانِ,Tegulani,Tesniye,Müennes,Muhataba,Deniyorsunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,gale_muzari_malum
+12,تَقُلْنَ,Tegulne,Cemi,Müennes,Muhataba,Deniyorsunuz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,gale_muzari_malum
+13,أَقُولُ,Egulü,Müfred,Nefsi Mütekellim,Vahde,Deniyorum,Ben şimdiki halde veya gelecek zamanda,gale_muzari_malum
+14,نَقُولُ,Negulü,Tesniye,Nefsi Mütekellim,Vahde gayr,Deniyoruz,Biz şimdiki halde veya gelecek zamanda,gale_muzari_malum
+1,يُقَالُ,Yügalü,Müfred,Müzekker,Gaib,Deniliyor,Bir gaip er şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+2,يُقَالَانِ,Yügalani,Tesniye,Müzekker,Gaib,Denilirler,İki gaip erler şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+3,يُقَالُونَ,Yügalüne,Cemi,Müzekker,Gaib,Denilirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+4,تُقَالُ,Tügalü,Müfred,Müennes,Gaibe,Deniliyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+5,تُقَالَانِ,Tügalani,Tesniye,Müennes,Gaibe,Denilirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+6,يُقَلْنَ,Yügalne,Cemi,Müennes,Gaibe,Denilirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+7,تُقَالُ,Tügalü,Müfred,Müzekker,Muhatab,Denilirsin,Bir hazır er şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+8,تُقَالَانِ,Tügalani,Tesniye,Müzekker,Muhatab,Denilirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+9,تُقَالُونَ,Tügalüne,Cemi,Müzekker,Muhatab,Denilirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+10,تُقَالِينَ,Tügaline,Müfred,Müennes,Muhataba,Denilirsin,Bir hazır avrat şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+11,تُقَالَانِ,Tügalani,Tesniye,Müennes,Muhataba,Denilirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+12,تُقَلْنَ,Tügalne,Cemi,Müennes,Muhataba,Denilirsiniz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+13,أُقَالُ,Ügalü,Müfred,Nefsi Mütekellim,Vahde,Denilirim,Ben şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+14,نُقَالُ,Nügalü,Tesniye,Nefsi Mütekellim,Vahde gayr,Deniliriz,Biz şimdiki halde veya gelecek zamanda,gale_muzari_meçhul
+1,بَاعَ,Baa,Müfred,Müzekker,Gaib,Sattı,Bir gaip er geçmiş zamanda,baa_mazi_malum
+2,بَاعَا,Baaa,Tesniye,Müzekker,Gaib,Sattılar,İki gaip erler geçmiş zamanda,baa_mazi_malum
+3,بَاعُوا,Bauu,Cemi,Müzekker,Gaib,Sattılar,Cemi gaip erler geçmiş zamanda,baa_mazi_malum
+4,بَاعَتْ,Baat,Müfred,Müennes,Gaibe,Sattı,Bir gaibe avrat geçmiş zamanda,baa_mazi_malum
+5,بَاعَتَا,Baate,Tesniye,Müennes,Gaibe,Sattılar,İki gaibe avratlar geçmiş zamanda,baa_mazi_malum
+6,بِعْنَ,Biğne,Cemi,Müennes,Gaibe,Sattılar,Cemi gaibe avratlar geçmiş zamanda,baa_mazi_malum
+7,بِعْتَ,Biğte,Müfred,Müzekker,Muhatab,Sattın,Bir hazır er geçmiş zamanda,baa_mazi_malum
+8,بِعْتُمَا,Biğtüma,Tesniye,Müzekker,Muhatab,Sattınız,iki hazır erler geçmiş zamanda,baa_mazi_malum
+9,بِعْتُمْ,Biğtüm,Cemi,Müzekker,Muhatab,Sattınız,Cemi hazır erler geçmiş zamanda,baa_mazi_malum
+10,بِعْتِ,Biğti,Müfred,Müennes,Muhataba,Sattın,Bir hazıra avrat geçmiş zamanda,baa_mazi_malum
+11,بِعْتُمَا,Biğtüma,Tesniye,Müennes,Muhataba,Sattınız,İki hazıra avratlar geçmiş zamanda,baa_mazi_malum
+12,بِعْتُنَّ,Biğtünne,Cemi,Müennes,Muhataba,Sattınız,Cemi hazıra avratlar geçmiş zamanda,baa_mazi_malum
+13,بِعْتُ,Biğtü,Müfred,Nefsi Mütekellim,Vahde,Sattım,Ben geçmiş zamanda,baa_mazi_malum
+14,بِعْنَا,Biğna,Tesniye,Nefsi Mütekellim,Vahde gayr,Sattık,Biz geçmiş zamanda,baa_mazi_malum
+1,بِيعَ,Bia,Müfred,Müzekker,Gaib,Satıldı,Bir gaip er geçmiş zamanda,baa_mazi_meçhul
+2,بِيعَا,Biaa,Tesniye,Müzekker,Gaib,Satıldılar,İki gaip erler geçmiş zamanda,baa_mazi_meçhul
+3,بِيعُوا,Biuu,Cemi,Müzekker,Gaib,Satıldılar,Cemi gaip erler geçmiş zamanda,baa_mazi_meçhul
+4,بِيعَتْ,Biat,Müfred,Müennes,Gaibe,Satıldı,Bir gaibe avrat geçmiş zamanda,baa_mazi_meçhul
+5,بِيعَتَا,Biata,Tesniye,Müennes,Gaibe,Satıldılar,İki gaibe avratlar geçmiş zamanda,baa_mazi_meçhul
+6,بُعْنَ,Buğne,Cemi,Müennes,Gaibe,Satıldılar,Cemi gaibe avratlar geçmiş zamanda,baa_mazi_meçhul
+7,بُعْتَ,Buğte,Müfred,Müzekker,Muhatab,Satıldın,Bir hazır er geçmiş zamanda,baa_mazi_meçhul
+8,بُعْتُمَا,Buğtüma,Tesniye,Müzekker,Muhatab,Satıldınız,iki hazır erler geçmiş zamanda,baa_mazi_meçhul
+9,بُعْتُمْ,Buğtüm,Cemi,Müzekker,Muhatab,Satıldınız,Cemi hazır erler geçmiş zamanda,baa_mazi_meçhul
+10,بُعْتِ,Buğti,Müfred,Müennes,Muhataba,Satıldın,Bir hazıra avrat geçmiş zamanda,baa_mazi_meçhul
+11,بُعْتُمَا,Buğtüma,Tesniye,Müennes,Muhataba,Satıldınız,İki hazıra avratlar geçmiş zamanda,baa_mazi_meçhul
+12,بُعْتُنَّ,Buğtünne,Cemi,Müennes,Muhataba,Satıldınız,Cemi hazıra avratlar geçmiş zamanda,baa_mazi_meçhul
+13,بُعْتُ,Buğtü,Müfred,Nefsi Mütekellim,Vahde,Satıldım,Ben geçmiş zamanda,baa_mazi_meçhul
+14,بُعْنَا,Buğna,Tesniye,Nefsi Mütekellim,Vahde gayr,Satıldık,Biz geçmiş zamanda,baa_mazi_meçhul
+1,يَبِيعُ,Yebiu,Müfred,Müzekker,Gaib,Satıyor,Bir gaip er şimdiki halde veya gelecek zamanda,baa_muzari_malum
+2,يَبِيعَانِ,Yebiani,Tesniye,Müzekker,Gaib,Satıyorlar,İki gaip erler şimdiki halde veya gelecek zamanda,baa_muzari_malum
+3,يَبِيعُونَ,Yebiune,Cemi,Müzekker,Gaib,Satıyorlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,baa_muzari_malum
+4,تَبِيعُ,Tebiu,Müfred,Müennes,Gaibe,Satıyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,baa_muzari_malum
+5,تَبِيعَانِ,Tebiani,Tesniye,Müennes,Gaibe,Satıyorlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,baa_muzari_malum
+6,يَبِعْنَ,Yebiğne,Cemi,Müennes,Gaibe,Satıyorlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,baa_muzari_malum
+7,تَبِيعُ,Tebiu,Müfred,Müzekker,Muhatab,Satıyorsun,Bir hazır er şimdiki halde veya gelecek zamanda,baa_muzari_malum
+8,تَبِيعَانِ,Tebiani,Tesniye,Müzekker,Muhatab,Satıyorsunuz,İki hazır erler şimdiki halde veya gelecek zamanda,baa_muzari_malum
+9,تَبِيعُونَ,Tebiune,Cemi,Müzekker,Muhatab,Satıyorsunuz,Cemi hazır erler şimdiki halde veya gelecek zamanda,baa_muzari_malum
+10,تَبِيعِينَ,Tebiine,Müfred,Müennes,Muhataba,Satıyorsun,Bir hazıra avrat şimdiki halde veya gelecek zamanda,baa_muzari_malum
+11,تَبِيعَانِ,Tebiani,Tesniye,Müennes,Muhataba,Satıyorsunuz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,baa_muzari_malum
+12,تَبِعْنَ,Tebiğne,Cemi,Müennes,Muhataba,Satıyorsunuz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,baa_muzari_malum
+13,أَبِيعُ,Ebiu,Müfred,Nefsi Mütekellim,Vahde,Satıyorum,Ben şimdiki halde veya gelecek zamanda,baa_muzari_malum
+14,نَبِيعُ,Nebiu,Tesniye,Nefsi Mütekellim,Vahde gayr,Satıyoruz,Biz şimdiki halde veya gelecek zamanda,baa_muzari_malum
+1,يُبَاعُ,Yübau,Müfred,Müzekker,Gaib,Satılır,Bir gaip er şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+2,يُبَاعَانِ,Yübaani,Tesniye,Müzekker,Gaib,Satılırlar,İki gaip erler şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+3,يُبَاعُونَ,Yübaune,Cemi,Müzekker,Gaib,Satılırlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+4,تُبَاعُ,Tübau,Müfred,Müennes,Gaibe,Satılır,Bir gaibe avrat şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+5,تُبَاعَانِ,Tübaani,Tesniye,Müennes,Gaibe,Satılırlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+6,يُبَعْنَ,Yübağne,Cemi,Müennes,Gaibe,Satılırlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+7,تُبَاعُ,Tübau,Müfred,Müzekker,Muhatab,Satılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+8,تُبَاعَانِ,Tubaani,Tesniye,Müzekker,Muhatab,Satılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+9,تُبَاعُونَ,Tubaune,Cemi,Müzekker,Muhatab,Satılırsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+10,تُبَاعِينَ,Tubaine,Müfred,Müennes,Muhataba,Satılırsın,Bir hazır avrat şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+11,تُبَاعَانِ,Tübaani,Tesniye,Müennes,Muhataba,Satılırsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+12,تُبَعْنَ,Tübağne,Cemi,Müennes,Muhataba,Satılırsınız,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+13,أُبَاعُ,Übau,Müfred,Nefsi Mütekellim,Vahde,Satılırım,Ben şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+14,نُبَاعُ,Nübau,Tesniye,Nefsi Mütekellim,Vahde gayr,Satılırız,Biz şimdiki halde veya gelecek zamanda,baa_muzari_meçhul
+1,كَسَرَ,Kesera,Müfred,Müzekker,Gaib,Kırdı,Bir gaip er geçmiş zamanda,kesera_mazi_malum
+2,كَسَرَا,Keseraa,Tesniye,Müzekker,Gaib,Kırdılar,İki gaip erler geçmiş zamanda,kesera_mazi_malum
+3,كَسَرُوا,Keseruu,Cemi,Müzekker,Gaib,Kırdılar,Cemi gaip erler geçmiş zamanda,kesera_mazi_malum
+4,كَسَرَتْ,Keserat,Müfred,Müennes,Gaibe,Kırdı,Bir gaibe avrat geçmiş zamanda,kesera_mazi_malum
+5,كَسَرَتَا,Keserate,Tesniye,Müennes,Gaibe,Kırdılar,İki gaibe avratlar geçmiş zamanda,kesera_mazi_malum
+6,كَسَرْنَ,Keserne,Cemi,Müennes,Gaibe,Kırdılar,Cemi gaibe avratlar geçmiş zamanda,kesera_mazi_malum
+7,كَسَرْتَ,Keserte,Müfred,Müzekker,Muhatab,Kırıldın,Bir hazır er geçmiş zamanda,kesera_mazi_malum
+8,كَسَرْتُمَا,Kesertüma,Tesniye,Müzekker,Muhatab,Kırıldınız,iki hazır erler geçmiş zamanda,kesera_mazi_malum
+9,كَسَرْتُمْ,Kesertüm,Cemi,Müzekker,Muhatab,Kırıldınız,Cemi hazır erler geçmiş zamanda,kesera_mazi_malum
+10,كَسَرْتِ,Keserti,Müfred,Müennes,Muhataba,Kırıldın,Bir hazıra avrat geçmiş zamanda,kesera_mazi_malum
+11,كَسَرْتُمَا,Kesertüma,Tesniye,Müennes,Muhataba,Kırıldınız,İki hazıra avratlar geçmiş zamanda,kesera_mazi_malum
+12,كَسَرْتُنَّ,Kesertünne,Cemi,Müennes,Muhataba,Kırıldınız,Cemi hazıra avratlar geçmiş zamanda,kesera_mazi_malum
+13,كَسَرْتُ,Kesertü,Müfred,Nefsi Mütekellim,Vahde,Kırıldım,Ben geçmiş zamanda,kesera_mazi_malum
+14,كَسَرْنَا,Keserna,Tesniye,Nefsi Mütekellim,Vahde gayr,Kırıldık,Biz geçmiş zamanda,kesera_mazi_malum
+1,كُسِرَ,Küsira,Müfred,Müzekker,Gaib,Kırıldı,Bir gaip er geçmiş zamanda,kesera_mazi_meçhul
+2,كُسِرَا,Küsiraa,Tesniye,Müzekker,Gaib,Kırıldılar,İki gaip erler geçmiş zamanda,kesera_mazi_meçhul
+3,كُسِرُوا,Küsiruu,Cemi,Müzekker,Gaib,Kırıldılar,Cemi gaip erler geçmiş zamanda,kesera_mazi_meçhul
+4,كُسِرَتْ,Küsirat,Müfred,Müennes,Gaibe,Kırıldı,Bir gaibe avrat geçmiş zamanda,kesera_mazi_meçhul
+5,كُسِرَتَا,Küsirate,Tesniye,Müennes,Gaibe,Kırıldılar,İki gaibe avratlar geçmiş zamanda,kesera_mazi_meçhul
+6,كُسِرْنَ,Küsirne,Cemi,Müennes,Gaibe,Kırıldılar,Cemi gaibe avratlar geçmiş zamanda,kesera_mazi_meçhul
+7,كُسِرْتَ,Küsirte,Müfred,Müzekker,Muhatab,Kırıldın,Bir hazır er geçmiş zamanda,kesera_mazi_meçhul
+8,كُسِرْتُمَا,Küsirtüma,Tesniye,Müzekker,Muhatab,Kırıldınız,iki hazır erler geçmiş zamanda,kesera_mazi_meçhul
+9,كُسِرْتُمْ,Küsirtüm,Cemi,Müzekker,Muhatab,Kırıldınız,Cemi hazır erler geçmiş zamanda,kesera_mazi_meçhul
+10,كُسِرْتِ,Küsirti,Müfred,Müennes,Muhataba,Kırıldın,Bir hazıra avrat geçmiş zamanda,kesera_mazi_meçhul
+11,كُسِرْتُمَا,Küsirtüma,Tesniye,Müennes,Muhataba,Kırıldınız,İki hazıra avratlar geçmiş zamanda,kesera_mazi_meçhul
+12,كُسِرْتُنَّ,Küsirtünne,Cemi,Müennes,Muhataba,Kırıldınız,Cemi hazıra avratlar geçmiş zamanda,kesera_mazi_meçhul
+13,كُسِرْتُ,Küsirtü,Müfred,Nefsi Mütekellim,Vahde,Kırıldım,Ben geçmiş zamanda,kesera_mazi_meçhul
+14,كُسِرْنَا,Küsirna,Tesniye,Nefsi Mütekellim,Vahde gayr,Kırıldık,Biz geçmiş zamanda,kesera_mazi_meçhul
+1,يَكْسِرُ,Yeksiru,Müfred,Müzekker,Gaib,Kırar,Bir gaip er şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+2,يَكْسِرَانِ,Yeksirani,Tesniye,Müzekker,Gaib,Kırarlar,İki gaip erler şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+3,يَكْسِرُونَ,Yeksirune,Cemi,Müzekker,Gaib,Kırarlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+4,تَكْسِرُ,Teksiru,Müfred,Müennes,Gaibe,Kırar,Bir gaibe avrat şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+5,تَكْسِرَانِ,Teksirani,Tesniye,Müennes,Gaibe,Kırarlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+6,يَكْسِرْنَ,Yeksirne,Cemi,Müennes,Gaibe,Kırarlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+7,تَكْسِرُ,Teksiru,Müfred,Müzekker,Muhatab,Kırılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+8,تَكْسِرَانِ,Teksirani,Tesniye,Müzekker,Muhatab,Kırılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+9,تَكْسِرُونَ,Teksirune,Cemi,Müzekker,Muhatab,Kırılırsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+10,تَكْسِرِينَ,Teksirine,Müfred,Müennes,Muhataba,Kırılırsın,Bir hazıra avrat şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+11,تَكْسِرَانِ,Teksirani,Tesniye,Müennes,Muhataba,Kırılırsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+12,تَكْسِرْنَ,Teksirne,Cemi,Müennes,Muhataba,Kırılırsınız,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+13,أَكْسِرُ,Eksiru,Müfred,Nefsi Mütekellim,Vahde,Kırılırım,Ben şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+14,نَكْسِرُ,Neksiru,Tesniye,Nefsi Mütekellim,Vahde gayr,Kırılırız,Biz şimdiki halde veya gelecek zamanda,kesera_muzari_malum
+1,يُكْسَرُ,Yükseru,Müfred,Müzekker,Gaib,Kırılır,Bir gaip er şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+2,يُكْسَرَانِ,Yükserani,Tesniye,Müzekker,Gaib,Kırılırlar,İki gaip erler şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+3,يُكْسَرُونَ,Yükserune,Cemi,Müzekker,Gaib,Kırılırlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+4,تُكْسَرُ,Tükseru,Müfred,Müennes,Gaibe,Kırılır,Bir gaibe avrat şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+5,تُكْسَرَانِ,Tükserani,Tesniye,Müennes,Gaibe,Kırılırlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+6,يُكْسَرْنَ,Yükserne,Cemi,Müennes,Gaibe,Kırılırlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+7,تُكْسَرُ,Tükseru,Müfred,Müzekker,Muhatab,Kırılırsın,Bir hazır er şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+8,تُكْسَرَانِ,Tükserani,Tesniye,Müzekker,Muhatab,Kırılırsınız,İki hazır erler şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+9,تُكْسَرُونَ,Tükserune,Cemi,Müzekker,Muhatab,Kırılırsınız,Cemi hazır erler şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+10,تُكْسَرِينَ,Tükserine,Müfred,Müennes,Muhataba,Kırılırsın,Bir hazır avrat şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+11,تُكْسَرَانِ,Tükserani,Tesniye,Müennes,Muhataba,Kırılırsınız,İki hazıra avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+12,تُكْسَرْنَ,Tükserne,Cemi,Müennes,Muhataba,Kırılırsınız,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+13,أُكْسَرُ,Ükseru,Müfred,Nefsi Mütekellim,Vahde,Kırılırım,Ben şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+14,نُكْسَرُ,Nükseru,Tesniye,Nefsi Mütekellim,Vahde gayr,Kırılırız,Biz şimdiki halde veya gelecek zamanda,kesera_muzari_meçhul
+1,ثَكَرَ,Şekera,Müfred,Müzekker,Gaib,Şükretti,Bir gaip er geçmiş zamanda,şekera_mazi_malum
+2,ثَكَرَا,Şekeraa,Tesniye,Müzekker,Gaib,Şükrettiler,İki gaip erler geçmiş zamanda,şekera_mazi_malum
+3,ثَكَرُوا,Şekeruu,Cemi,Müzekker,Gaib,Şükrettiler,Cemi gaip erler geçmiş zamanda,şekera_mazi_malum
+4,ثَكَرَتْ,Şekerat,Müfred,Müennes,Gaibe,Şükretti,Bir gaibe avrat geçmiş zamanda,şekera_mazi_malum
+5,ثَكَرَتَا,Şekerate,Tesniye,Müennes,Gaibe,Şükrettiler,İki gaibe avratlar geçmiş zamanda,şekera_mazi_malum
+6,ثَكَرْنَ,Şekerne,Cemi,Müennes,Gaibe,Şükrettiler,Cemi gaibe avratlar geçmiş zamanda,şekera_mazi_malum
+7,ثَكَرْتَ,Şekerte,Müfred,Müzekker,Muhatab,Şükrettin,Bir hazır er geçmiş zamanda,şekera_mazi_malum
+8,ثَكَرْتُمَا,Şekertüma,Tesniye,Müzekker,Muhatab,Şükrettiniz,iki hazır erler geçmiş zamanda,şekera_mazi_malum
+9,ثَكَرْتُمْ,Şekertüm,Cemi,Müzekker,Muhatab,Şükrettiniz,Cemi hazır erler geçmiş zamanda,şekera_mazi_malum
+10,ثَكَرْتِ,Şekerti,Müfred,Müennes,Muhataba,Şükrettin,Bir hazıra avrat geçmiş zamanda,şekera_mazi_malum
+11,ثَكَرْتُمَا,Şekertüma,Tesniye,Müennes,Muhataba,Şükrettiniz,İki hazıra avratlar geçmiş zamanda,şekera_mazi_malum
+12,ثَكَرْتُنَّ,Şekertünne,Cemi,Müennes,Muhataba,Şükrettiniz,Cemi hazıra avratlar geçmiş zamanda,şekera_mazi_malum
+13,ثَكَرْتُ,Şekertü,Müfred,Nefsi Mütekellim,Vahde,Şükrettim,Ben geçmiş zamanda,şekera_mazi_malum
+14,ثَكَرْنَا,Şekerna,Tesniye,Nefsi Mütekellim,Vahde gayr,Şükrettik,Biz geçmiş zamanda,şekera_mazi_malum
+1,ثُكِرَ,Şükira,Müfred,Müzekker,Gaib,Şükredildi,Bir gaip er geçmiş zamanda,şekera_mazi_meçhul
+2,ثُكِرَا,Şükiraa,Tesniye,Müzekker,Gaib,Şükredildiler,İki gaip erler geçmiş zamanda,şekera_mazi_meçhul
+3,ثُكِرُوا,Şükiruu,Cemi,Müzekker,Gaib,Şükredildiler,Cemi gaip erler geçmiş zamanda,şekera_mazi_meçhul
+4,ثُكِرَتْ,Şükirat,Müfred,Müennes,Gaibe,Şükredildi,Bir gaibe avrat geçmiş zamanda,şekera_mazi_meçhul
+5,ثُكِرَتَا,Şükirate,Tesniye,Müennes,Gaibe,Şükredildiler,İki gaibe avratlar geçmiş zamanda,şekera_mazi_meçhul
+6,ثُكِرْنَ,Şükirne,Cemi,Müennes,Gaibe,Şükredildiler,Cemi gaibe avratlar geçmiş zamanda,şekera_mazi_meçhul
+7,ثُكِرْتَ,Şükirte,Müfred,Müzekker,Muhatab,Şükredildin,Bir hazır er geçmiş zamanda,şekera_mazi_meçhul
+8,ثُكِرْتُمَا,Şükirtüma,Tesniye,Müzekker,Muhatab,Şükredildiniz,iki hazır erler geçmiş zamanda,şekera_mazi_meçhul
+9,ثُكِرْتُمْ,Şükirtüm,Cemi,Müzekker,Muhatab,Şükredildiniz,Cemi hazır erler geçmiş zamanda,şekera_mazi_meçhul
+10,ثُكِرْتِ,Şükirti,Müfred,Müennes,Muhataba,Şükredildin,Bir hazıra avrat geçmiş zamanda,şekera_mazi_meçhul
+11,ثُكِرْتُمَا,Şükirtüma,Tesniye,Müennes,Muhataba,Şükredildiniz,İki hazıra avratlar geçmiş zamanda,şekera_mazi_meçhul
+12,ثُكِرْتُنَّ,Şükirtünne,Cemi,Müennes,Muhataba,Şükredildiniz,Cemi hazıra avratlar geçmiş zamanda,şekera_mazi_meçhul
+13,ثُكِرْتُ,Şükirtü,Müfred,Nefsi Mütekellim,Vahde,Şükredildim,Ben geçmiş zamanda,şekera_mazi_meçhul
+14,ثُكِرْنَا,Şükirna,Tesniye,Nefsi Mütekellim,Vahde gayr,Şükredildik,Biz geçmiş zamanda,şekera_mazi_meçhul
+1,يَثْكُرُ,Yeşküru,Müfred,Müzekker,Gaib,Şükreder,Bir gaip er şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+2,يَثْكُرَانِ,Yeşkürani,Tesniye,Müzekker,Gaib,Şükrederler,İki gaip erler şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+3,يَثْكُرُونَ,Yeşkürune,Cemi,Müzekker,Gaib,Şükrederler,Cemi gaip erler şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+4,تَثْكُرُ,Teşküru,Müfred,Müennes,Gaibe,Şükreder,Bir gaibe avrat şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+5,تَثْكُرَانِ,Teşkürani,Tesniye,Müennes,Gaibe,Şükrederler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+6,يَثْكُرْنَ,Teşkürne,Cemi,Müennes,Gaibe,Şükrederler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+7,تَثْكُرُ,Teşküru,Müfred,Müzekker,Muhatab,Şükredersin,Bir hazır er şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+8,تَثْكُرَانِ,Teşkürani,Tesniye,Müzekker,Muhatab,Şükredersiniz,İki hazır erler şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+9,تَثْكُرُونَ,Teşkürune,Cemi,Müzekker,Muhatab,Şükredersiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+10,تَثْكُرِينَ,Teşkürine,Müfred,Müennes,Muhataba,Şükredersin,Bir hazıra avrat şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+11,تَثْكُرَانِ,Teşkürani,Tesniye,Müennes,Muhataba,Şükredersiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+12,تَثْكُرْنَ,Teşkürne,Cemi,Müennes,Muhataba,Şükredersiniz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+13,أَثْكُرُ,Eşküru,Müfred,Nefsi Mütekellim,Vahde,Şükrederim,Ben şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+14,نَثْكُرُ,Neşküru,Tesniye,Nefsi Mütekellim,Vahde gayr,Şükrederiz,Biz şimdiki halde veya gelecek zamanda,şekera_muzari_malum
+1,يُثْكَرُ,Yüşkeru,Müfred,Müzekker,Gaib,Şükredilir,Bir gaip er şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+2,يُثْكَرَانِ,Yüşkerani,Tesniye,Müzekker,Gaib,Şükredilirler,İki gaip erler şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+3,يُثْكَرُونَ,Yüşkerune,Cemi,Müzekker,Gaib,Şükredilirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+4,تُثْكَرُ,Tüşkeru,Müfred,Müennes,Gaibe,Şükredilir,Bir gaibe avrat şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+5,تُثْكَرَانِ,Tüşkerani,Tesniye,Müennes,Gaibe,Şükredilirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+6,يُثْكَرْنَ,Tüşkerne,Cemi,Müennes,Gaibe,Şükredilirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+7,تُثْكَرُ,Tüşkeru,Müfred,Müzekker,Muhatab,Şükredilirsin,Bir hazır er şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+8,تُثْكَرَانِ,Tüşkerani,Tesniye,Müzekker,Muhatab,Şükredilirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+9,تُثْكَرُونَ,Tüşkerune,Cemi,Müzekker,Muhatab,Şükredilirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+10,تُثْكَرِينَ,Tüşkerine,Müfred,Müennes,Muhataba,Şükredilirsin,Bir hazır avrat şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+11,تُثْكَرَانِ,Tüşkerani,Tesniye,Müennes,Muhataba,Şükredilirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+12,تُثْكَرْنَ,Tüşkerne,Cemi,Müennes,Muhataba,Şükredilirsiniz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+13,أُثْكَرُ,Üşkeru,Müfred,Nefsi Mütekellim,Vahde,Şükredilirim,Ben şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+14,نُثْكَرُ,Nüşkeru,Tesniye,Nefsi Mütekellim,Vahde gayr,Şükrediliriz,Biz şimdiki halde veya gelecek zamanda,şekera_muzari_meçhul
+1,أَمَرَ,Emera,Müfred,Müzekker,Gaib,Emretti,Bir gaip er geçmiş zamanda,emera_mazi_malum
+2,أَمَرَا,Emeraa,Tesniye,Müzekker,Gaib,Emrettiler,İki gaip erler geçmiş zamanda,emera_mazi_malum
+3,أَمَرُوا,Emeruu,Cemi,Müzekker,Gaib,Emrettiler,Cemi gaip erler geçmiş zamanda,emera_mazi_malum
+4,أَمَرَتْ,Emerat,Müfred,Müennes,Gaibe,Emretti,Bir gaibe avrat geçmiş zamanda,emera_mazi_malum
+5,أَمَرَتَا,Emerate,Tesniye,Müennes,Gaibe,Emrettiler,İki gaibe avratlar geçmiş zamanda,emera_mazi_malum
+6,أَمَرْنَ,Emerne,Cemi,Müennes,Gaibe,Emrettiler,Cemi gaibe avratlar geçmiş zamanda,emera_mazi_malum
+7,أَمَرْتَ,Emerte,Müfred,Müzekker,Muhatab,Emrettin,Bir hazır er geçmiş zamanda,emera_mazi_malum
+8,أَمَرْتُمَا,Emertüma,Tesniye,Müzekker,Muhatab,Emrettiniz,iki hazır erler geçmiş zamanda,emera_mazi_malum
+9,أَمَرْتُمْ,Emertüm,Cemi,Müzekker,Muhatab,Emrettiniz,Cemi hazır erler geçmiş zamanda,emera_mazi_malum
+10,أَمَرْتِ,Emerti,Müfred,Müennes,Muhataba,Emrettin,Bir hazıra avrat geçmiş zamanda,emera_mazi_malum
+11,أَمَرْتُمَا,Emertüma,Tesniye,Müennes,Muhataba,Emrettiniz,İki hazıra avratlar geçmiş zamanda,emera_mazi_malum
+12,أَمَرْتُنَّ,Emertünne,Cemi,Müennes,Muhataba,Emrettiniz,Cemi hazıra avratlar geçmiş zamanda,emera_mazi_malum
+13,أَمَرْتُ,Emertü,Müfred,Nefsi Mütekellim,Vahde,Emrettim,Ben geçmiş zamanda,emera_mazi_malum
+14,أَمَرْنَا,Emerna,Tesniye,Nefsi Mütekellim,Vahde gayr,Emrettik,Biz geçmiş zamanda,emera_mazi_malum
+1,أُمِرَ,Ümira,Müfred,Müzekker,Gaib,Emredildi,Bir gaip er geçmiş zamanda,emera_mazi_meçhul
+2,أُمِرَا,Ümiraa,Tesniye,Müzekker,Gaib,Emredildiler,İki gaip erler geçmiş zamanda,emera_mazi_meçhul
+3,أُمِرُوا,Ümiruu,Cemi,Müzekker,Gaib,Emredildiler,Cemi gaip erler geçmiş zamanda,emera_mazi_meçhul
+4,أُمِرَتْ,Ümirat,Müfred,Müennes,Gaibe,Emredildi,Bir gaibe avrat geçmiş zamanda,emera_mazi_meçhul
+5,أُمِرَتَا,Ümirate,Tesniye,Müennes,Gaibe,Emredildiler,İki gaibe avratlar geçmiş zamanda,emera_mazi_meçhul
+6,أُمِرْنَ,Ümirne,Cemi,Müennes,Gaibe,Emredildiler,Cemi gaibe avratlar geçmiş zamanda,emera_mazi_meçhul
+7,أُمِرْتَ,Ümirte,Müfred,Müzekker,Muhatab,Emredildin,Bir hazır er geçmiş zamanda,emera_mazi_meçhul
+8,أُمِرْتُمَا,Ümirtüma,Tesniye,Müzekker,Muhatab,Emredildiniz,iki hazır erler geçmiş zamanda,emera_mazi_meçhul
+9,أُمِرْتُمْ,Ümirtüm,Cemi,Müzekker,Muhatab,Emredildiniz,Cemi hazır erler geçmiş zamanda,emera_mazi_meçhul
+10,أُمِرْتِ,Ümirti,Müfred,Müennes,Muhataba,Emredildin,Bir hazıra avrat geçmiş zamanda,emera_mazi_meçhul
+11,أُمِرْتُمَا,Ümirtüma,Tesniye,Müennes,Muhataba,Emredildiniz,İki hazıra avratlar geçmiş zamanda,emera_mazi_meçhul
+12,أُمِرْتُنَّ,Ümirtünne,Cemi,Müennes,Muhataba,Emredildiniz,Cemi hazıra avratlar geçmiş zamanda,emera_mazi_meçhul
+13,أُمِرْتُ,Ümirtü,Müfred,Nefsi Mütekellim,Vahde,Emredildim,Ben geçmiş zamanda,emera_mazi_meçhul
+14,أُمِرْنَا,Ümirna,Tesniye,Nefsi Mütekellim,Vahde gayr,Emredildik,Biz geçmiş zamanda,emera_mazi_meçhul
+1,يَأْمُرُ,Ye'muru,Müfred,Müzekker,Gaib,Emrediyor,Bir gaip er şimdiki halde veya gelecek zamanda,emera_muzari_malum
+2,يَأْمُرَانِ,Ye'murani,Tesniye,Müzekker,Gaib,Emrediyorlar,İki gaip erler şimdiki halde veya gelecek zamanda,emera_muzari_malum
+3,يَأْمُرُونَ,Ye'murune,Cemi,Müzekker,Gaib,Emrediyorlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,emera_muzari_malum
+4,تَأْمُرُ,Te'muru,Müfred,Müennes,Gaibe,Emrediyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,emera_muzari_malum
+5,تَأْمُرَانِ,Te'murani,Tesniye,Müennes,Gaibe,Emrediyorlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,emera_muzari_malum
+6,يَأْمُرْنَ,Ye'murne,Cemi,Müennes,Gaibe,Emrediyorlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,emera_muzari_malum
+7,تَأْمُرُ,Te'muru,Müfred,Müzekker,Muhatab,Emredersin,Bir hazır er şimdiki halde veya gelecek zamanda,emera_muzari_malum
+8,تَأْمُرَانِ,Te'murani,Tesniye,Müzekker,Muhatab,Emredersiniz,İki hazır erler şimdiki halde veya gelecek zamanda,emera_muzari_malum
+9,تَأْمُرُونَ,Te'murune,Cemi,Müzekker,Muhatab,Emredersiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,emera_muzari_malum
+10,تَأْمُرِينَ,Te'murine,Müfred,Müennes,Muhataba,Emredersin,Bir hazıra avrat şimdiki halde veya gelecek zamanda,emera_muzari_malum
+11,تَأْمُرَانِ,Te'murani,Tesniye,Müennes,Muhataba,Emredersiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,emera_muzari_malum
+12,تَأْمُرْنَ,Te'murne,Cemi,Müennes,Muhataba,Emredersiniz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,emera_muzari_malum
+13,آمُرُ,Amuru,Müfred,Nefsi Mütekellim,Vahde,Emrederim,Ben şimdiki halde veya gelecek zamanda,emera_muzari_malum
+14,نَأْمُرُ,Ne'muru,Tesniye,Nefsi Mütekellim,Vahde gayr,Emrederiz,Biz şimdiki halde veya gelecek zamanda,emera_muzari_malum
+1,يُؤْمَرُ,Yü'meru,Müfred,Müzekker,Gaib,Emrediliyor,Bir gaip er şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+2,يُؤْمَرَانِ,Yü'merani,Tesniye,Müzekker,Gaib,Emredilirler,İki gaip erler şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+3,يُؤْمَرُونَ,Yü'merune,Cemi,Müzekker,Gaib,Emredilirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+4,تُؤْمَرُ,Tü'meru,Müfred,Müennes,Gaibe,Emrediliyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+5,تُؤْمَرَانِ,Tü'merani,Tesniye,Müennes,Gaibe,Emredilirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+6,يُؤْمَرْنَ,Yü'merne,Cemi,Müennes,Gaibe,Emredilirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+7,تُؤْمَرُ,Tü'meru,Müfred,Müzekker,Muhatab,Emredilirsin,Bir hazır er şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+8,تُؤْمَرَانِ,Tü'merani,Tesniye,Müzekker,Muhatab,Emredilirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+9,تُؤْمَرُونَ,Tü'merune,Cemi,Müzekker,Muhatab,Emredilirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+10,تُؤْمَرِينَ,Tü'merine,Müfred,Müennes,Muhataba,Emredilirsin,Bir hazır avrat şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+11,تُؤْمَرَانِ,Tü'merani,Tesniye,Müennes,Muhataba,Emredilirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+12,تُؤْمَرْنَ,Tü'merne,Cemi,Müennes,Muhataba,Emredilirsiniz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+13,أُومَرُ,Ümeru,Müfred,Nefsi Mütekellim,Vahde,Emredilirim,Ben şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+14,نُؤْمَرُ,Nü'meru,Tesniye,Nefsi Mütekellim,Vahde gayr,Emrediliriz,Biz şimdiki halde veya gelecek zamanda,emera_muzari_meçhul
+1,سَمِعَ,Semia,Müfred,Müzekker,Gaib,Işitti,Bir gaip er geçmiş zamanda,semİa_mazi_malum
+2,سَمِعَا,Semiaa,Tesniye,Müzekker,Gaib,İşittiler,İki gaip erler geçmiş zamanda,semİa_mazi_malum
+3,سَمِعُوا,Semiuu,Cemi,Müzekker,Gaib,İşittiler,Cemi gaip erler geçmiş zamanda,semİa_mazi_malum
+4,سَمِعَتْ,Semiat,Müfred,Müennes,Gaibe,Işitti,Bir gaibe avrat geçmiş zamanda,semİa_mazi_malum
+5,سَمِعَتَا,Semiate,Tesniye,Müennes,Gaibe,İşittiler,İki gaibe avratlar geçmiş zamanda,semİa_mazi_malum
+6,سَمِعْنَ,Semiğne,Cemi,Müennes,Gaibe,İşittiler,Cemi gaibe avratlar geçmiş zamanda,semİa_mazi_malum
+7,سَمِعْتَ,Semiğte,Müfred,Müzekker,Muhatab,İşittin,Bir hazır er geçmiş zamanda,semİa_mazi_malum
+8,سَمِعْتُمَا,Semiğtüma,Tesniye,Müzekker,Muhatab,İşittiniz,iki hazır erler geçmiş zamanda,semİa_mazi_malum
+9,سَمِعْتُمْ,Semiğtüm,Cemi,Müzekker,Muhatab,İşittiniz,Cemi hazır erler geçmiş zamanda,semİa_mazi_malum
+10,سَمِعْتِ,Semiğti,Müfred,Müennes,Muhataba,İşittin,Bir hazıra avrat geçmiş zamanda,semİa_mazi_malum
+11,سَمِعْتُمَا,Semiğtüma,Tesniye,Müennes,Muhataba,İşittiniz,İki hazıra avratlar geçmiş zamanda,semİa_mazi_malum
+12,سَمِعْتُنَّ,Semiğtünne,Cemi,Müennes,Muhataba,İşittiniz,Cemi hazıra avratlar geçmiş zamanda,semİa_mazi_malum
+13,سَمِعْتُ,Semiğtü,Müfred,Nefsi Mütekellim,Vahde,İşittim,Ben geçmiş zamanda,semİa_mazi_malum
+14,سَمِعْنَا,Semiğna,Tesniye,Nefsi Mütekellim,Vahde gayr,İşittik,Biz geçmiş zamanda,semİa_mazi_malum
+1,سُمِعَ,Sümia,Müfred,Müzekker,Gaib,Işitildi,Bir gaip er geçmiş zamanda,semİa_mazi_meçhul
+2,سُمِعَا,Sümiaa,Tesniye,Müzekker,Gaib,İşitildiler,İki gaip erler geçmiş zamanda,semİa_mazi_meçhul
+3,سُمِعُوا,Sümiuu,Cemi,Müzekker,Gaib,İşitildiler,Cemi gaip erler geçmiş zamanda,semİa_mazi_meçhul
+4,سُمِعَتْ,Sümiat,Müfred,Müennes,Gaibe,Işitildi,Bir gaibe avrat geçmiş zamanda,semİa_mazi_meçhul
+5,سُمِعَتَا,Sümiate,Tesniye,Müennes,Gaibe,İşitildiler,İki gaibe avratlar geçmiş zamanda,semİa_mazi_meçhul
+6,سُمِعْنَ,Sümiğne,Cemi,Müennes,Gaibe,İşitildiler,Cemi gaibe avratlar geçmiş zamanda,semİa_mazi_meçhul
+7,سُمِعْتَ,Sümiğte,Müfred,Müzekker,Muhatab,İşitildin,Bir hazır er geçmiş zamanda,semİa_mazi_meçhul
+8,سُمِعْتُمَا,Sümiğtüma,Tesniye,Müzekker,Muhatab,İşitildiniz,iki hazır erler geçmiş zamanda,semİa_mazi_meçhul
+9,سُمِعْتُمْ,Sümiğtüm,Cemi,Müzekker,Muhatab,İşitildiniz,Cemi hazır erler geçmiş zamanda,semİa_mazi_meçhul
+10,سُمِعْتِ,Sümiğti,Müfred,Müennes,Muhataba,İşitildin,Bir hazıra avrat geçmiş zamanda,semİa_mazi_meçhul
+11,سُمِعْتُمَا,Sümiğtüma,Tesniye,Müennes,Muhataba,İşitildiniz,İki hazıra avratlar geçmiş zamanda,semİa_mazi_meçhul
+12,سُمِعْتُنَّ,Sümiğtünne,Cemi,Müennes,Muhataba,İşitildiniz,Cemi hazıra avratlar geçmiş zamanda,semİa_mazi_meçhul
+13,سُمِعْتُ,Sümiğtü,Müfred,Nefsi Mütekellim,Vahde,İşitildim,Ben geçmiş zamanda,semİa_mazi_meçhul
+14,سُمِعْنَا,Sümiğna,Tesniye,Nefsi Mütekellim,Vahde gayr,İşitildik,Biz geçmiş zamanda,semİa_mazi_meçhul
+1,يَسْمَعُ,Yesmeu,Müfred,Müzekker,Gaib,İşitiyor,Bir gaip er şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+2,يَسْمَعَانِ,Yesmeani,Tesniye,Müzekker,Gaib,İşitiliyorlar,İki gaip erler şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+3,يَسْمَعُونَ,Yesmeune,Cemi,Müzekker,Gaib,İşitiyorlar,Cemi gaip erler şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+4,تَسْمَعُ,Tesmeu,Müfred,Müennes,Gaibe,İşitiyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+5,تَسْمَعَانِ,Tesmeani,Tesniye,Müennes,Gaibe,İşitiyorlar,İki gaibe avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+6,يَسْمَعْنَ,Yesmağne,Cemi,Müennes,Gaibe,İşitiyorlar,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+7,تَسْمَعُ,Tesmeu,Müfred,Müzekker,Muhatab,İşitirsin,Bir hazır er şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+8,تَسْمَعَانِ,Tesmeani,Tesniye,Müzekker,Muhatab,İşitirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+9,تَسْمَعُونَ,Tesmeune,Cemi,Müzekker,Muhatab,İşitirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+10,تَسْمَعِينَ,Tesmeine,Müfred,Müennes,Muhataba,İşitirsin,Bir hazıra avrat şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+11,تَسْمَعَانِ,Tesmeani,Tesniye,Müennes,Muhataba,İşitirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+12,تَسْمَعْنَ,Tesmağne,Cemi,Müennes,Muhataba,İşitirsiniz,Cemi hazır avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+13,أَسْمَعُ,Esmeu,Müfred,Nefsi Mütekellim,Vahde,İşitirim,Ben şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+14,نَسْمَعُ,Nesmeu,Tesniye,Nefsi Mütekellim,Vahde gayr,İşitiriz,Biz şimdiki halde veya gelecek zamanda,semİa_muzari_malum
+1,يُسْمَعُ,Yüsmeu,Müfred,Müzekker,Gaib,İşitiliyor,Bir gaip er şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+2,يُسْمَعَانِ,Yüsmeani,Tesniye,Müzekker,Gaib,İşitilirler,İki gaip erler şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+3,يُسْمَعُونَ,Yüsmeune,Cemi,Müzekker,Gaib,İşitilirler,Cemi gaip erler şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+4,تُسْمَعُ,Tüsmeu,Müfred,Müennes,Gaibe,İşitiliyor,Bir gaibe avrat şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+5,تُسْمَعَانِ,Tüsmeani,Tesniye,Müennes,Gaibe,İşitilirler,İki gaibe avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+6,يُسْمَعْنَ,Yüsmeğne,Cemi,Müennes,Gaibe,İşitilirler,Cemi gaibe avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+7,تُسْمَعُ,Tüsmeu,Müfred,Müzekker,Muhatab,İşitilirsin,Bir hazır er şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+8,تُسْمَعَانِ,Tüsmeani,Tesniye,Müzekker,Muhatab,İşitilirsiniz,İki hazır erler şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+9,تُسْمَعُونَ,Tüsmeune,Cemi,Müzekker,Muhatab,İşitilirsiniz,Cemi hazır erler şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+10,تُسْمَعِينَ,Tüsmeine,Müfred,Müennes,Muhataba,İşitilirsin,Bir hazır avrat şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+11,تُسْمَعَانِ,Tüsmeani,Tesniye,Müennes,Muhataba,İşitilirsiniz,İki hazıra avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+12,تُسْمَعْنَ,Tüsmeğne,Cemi,Müennes,Muhataba,İşitilirsiniz,Cemi hazıra avratlar şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+13,أُسْمَعُ,Üsmeu,Müfred,Nefsi Mütekellim,Vahde,İşitilirim,Ben şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul
+14,نُسْمَعُ,Nüsmeu,Tesniye,Nefsi Mütekellim,Vahde gayr,İşitiliriz,Biz şimdiki halde veya gelecek zamanda,semİa_muzari_meçhul

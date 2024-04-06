@@ -3507,8 +3507,8 @@
     },
     {
       "id": 16,
-      "ar": "سَجَّادَةٌ",
-      "latin": "Seccadetun",
+      "ar": "مِسْجَدَةٌ",
+      "latin": "Miscadetun",
       "siga": "İsm-i âlet",
       "tr": "Secde etme aleti"
     },
@@ -3528,22 +3528,22 @@
     },
     {
       "id": 19,
-      "ar": "سُجَيْدُنْ",
+      "ar": "سُجَيْدٌ",
       "latin": "Suceydun",
       "siga": "İsm-i tasğîr",
       "tr": "Secde etmecik"
     },
     {
       "id": 20,
-      "ar": "سَجَّادٌ",
-      "latin": "Saccadün",
+      "ar": "سَجْدِيٌّ",
+      "latin": "Secdiyyun",
       "siga": "İsm-i mensûb",
       "tr": "Secde etmeye mensup"
     },
     {
       "id": 21,
-      "ar": "سَاجِّدٌ",
-      "latin": "Saccidun",
+      "ar": "سَجَّدٌ",
+      "latin": "Seccadun",
       "siga": "Mübâlağa-i ism-i fâil",
       "tr": "Çok çok secde eden"
     },
